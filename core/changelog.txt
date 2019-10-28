@@ -1,0 +1,91 @@
+Version 4.3.5
+Fixes - Added a new sidebar layout: narrow
+
+Version 4.3.4
+Fixes - Improved handling of multilingual options
+
+Version 4.3.3
+Tweaks - Sanitized checkboxes properly
+Fixes - Fixed header/footer not working properly when on the homepage
+
+Version 4.3.2
+Fixes - Fixed content ordering field sometimes not showing all elements
+
+Version 4.3.1
+Feature - The elements of the homepage can now be manually sorted
+Fixes - Fixed icon fonts in the menu edit screen
+
+Version 4.3.0
+Feature - Added support for featured posts and pages
+Feature - Added WPML support for text-based fields in the Customizer
+Feature - Added cpotheme_grid_* hooks to item grids
+Feature - Added hover effect for buttons
+
+Version 4.2.2
+Fixes - Fixed display of icons
+Fixes - Added more options for lightboxes through the data attribute
+
+Version 4.2.1
+Tweaks - Improved sanitization of theme options
+
+Version 4.2.0
+Feature - Added minified versions of JS scripts along with development versions
+Feature - Moved portfolio navigations to the core
+Feature - Added styles for the WordPress visual editor
+
+Version 4.1.1
+Fixes - Fixed the function that calculates the sidebar position for the homepage
+
+Version 4.1.0
+Feature - Added support for multiple font libraries
+Feature - Added linearicons and typicons font libraries
+Feature - Slides can now have an accompanying embedded media
+Feature - The Theme Options page has been removed and all options now use the Theme Customizer
+Feature - Standarized metaboxes for content types: slides, features and portfolios now have more options
+Tweaks - Moved the CPOThemes license activation to its own page under Settings
+Tweaks - Overhauled the codebase and moved most of the standard functionality to the theme core
+Tweaks - Added a specific options page for the theme license
+Tweaks - Simplified some template files for easier customization
+Tweaks - Overhauled grid columns for better responsiveness
+Tweaks - Upgraded the jQuery Cycle library to Cycle2
+Tweaks - Changed the prettyPhoto library in favor of the Magnific popup library
+Tweaks - Reduced average page size by loading assets more selectively
+Tweaks - Improved handling of default options
+
+
+Version 4.0.1
+Feature - The slugs of portfolios, products, and services are now customizable in the Theme Options
+Feature - Added a missing filter for the Products custom post type slug
+Feature - You can now change the theme thumbnail size in the Media Settings page
+Feature - Added a filter for controlling submenu queries
+Feature - Updated Font Awesome with new icons
+Feature - Added cpotheme_readmore filter for Read More links
+Tweaks - Changed the styling for custom menu widgets, with less link color
+Tweaks - Added support for title-tag in WordPress 4.1
+Tweaks - Moved author social links to the theme core
+Tweaks - Moved read more, auto excerpts to the theme core
+Fixes - Fixed breadcrumb separator on 404 pages
+
+
+Version 4.0.0
+Feature - Social links have been converted to an extendable list field
+Feature - A WooCommerce cart dropdown has been added as a standard feature
+Feature - New CPOThemes hooks have been added
+Feature - A new quickstart tutorial has been added
+Feature - Fields that support HTML are now proper code editors
+Feature - CSS and JS fields are now proper code editors
+Feature - A link to the theme docs has been added alongside the Screen Options
+Feature - Added a helpful gallery metabox for portfolio items
+Feature - Custom menu items can now display a description and an icon
+Feature - Custom menu items can have a highlighted or disabled look
+Feature - Custom menu widget now also displays icons and descriptions
+Feature - Themes now have a hook-based layout for extra flexibility
+Feature - All themes now come with the native background controls
+Tweaks - Custom post types have been standarized and moved to core
+Tweaks - Stylized license notification
+Tweaks - Theme Options link on toolbar now only appears to admins
+Fixes - Google Fonts are now properly enqueued.
+Fixes - Fixed font previews in theme options when viewing different font weights
+Fixes - Yoast breadcrumbs now only replaces breadcrumb nav if active
+Removed - Login branding removed, no sense having it on a theme
+Removed - Analytics tracking field removed, also plugin territory

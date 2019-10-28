@@ -1,0 +1,3786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CPO Framework 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-24 13:19+0200\n"
+"PO-Revision-Date: 2015-08-24 13:19+0200\n"
+"Last-Translator: CPO <mvicedo@cpo.es>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././admin.php:37
+msgid "quickstart guide"
+msgstr "guía de inicio"
+
+#: .././admin.php:41 .././classes/class_tgm.php:653 .././update.php:154
+msgid "Dismiss This Notice"
+msgstr "Ocultar este aviso"
+
+#: .././admin.php:43
+#, php-format
+msgid "Start Using %s"
+msgstr "Empieza A Usar %s"
+
+#: .././admin.php:89 .././custom.php:258 .././custom.php:272
+#: .././custom.php:300
+msgid "Theme Documentation"
+msgstr "Documentación Del Tema"
+
+#: .././classes/class_customizer.php:87 .././classes/class_menu_edit.php:226
+#: .././forms.php:257
+msgid "Remove"
+msgstr "Quitar"
+
+#: .././classes/class_customizer.php:91 .././forms.php:263
+msgid "Add Row"
+msgstr "Añadir Fila"
+
+#: .././classes/class_menu_edit.php:83
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#: .././classes/class_menu_edit.php:87
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: .././classes/class_menu_edit.php:100
+msgid "sub item"
+msgstr "sub elemento"
+
+#: .././classes/class_menu_edit.php:132
+msgid "Edit Menu Item"
+msgstr "Editar Menú"
+
+#: .././classes/class_menu_edit.php:141 .././metadata/data_general.php:469
+msgid "URL"
+msgstr "URL"
+
+#: .././classes/class_menu_edit.php:148
+msgid "Navigation Label"
+msgstr "Etiqueta de Navegación"
+
+#: .././classes/class_menu_edit.php:154
+msgid "Title Attribute"
+msgstr "Atributo del Título"
+
+#: .././classes/class_menu_edit.php:161
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una pestaña nueva"
+
+#: .././classes/class_menu_edit.php:166
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: .././classes/class_menu_edit.php:172
+msgid "Link Relationship (XFN)"
+msgstr "Relación de enlace (XFN)"
+
+#: .././classes/class_menu_edit.php:178
+msgid "Description"
+msgstr "Descripción"
+
+#: .././classes/class_menu_edit.php:180
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr "La descripción será mostrada en el menú si el tema actual lo soporta."
+
+#: .././classes/class_menu_edit.php:187 .././metadata/data_general.php:468
+msgid "Icon"
+msgstr "Icono"
+
+#: .././classes/class_menu_edit.php:193
+msgid "Style"
+msgstr "Estilo"
+
+#: .././classes/class_menu_edit.php:201
+msgid "Move"
+msgstr "Mover"
+
+#: .././classes/class_menu_edit.php:202
+msgid "Up one"
+msgstr "Uno arriba"
+
+#: .././classes/class_menu_edit.php:203
+msgid "Down one"
+msgstr "Uno abajo"
+
+#: .././classes/class_menu_edit.php:206
+msgid "To the top"
+msgstr "Al principio"
+
+#: .././classes/class_menu_edit.php:213
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: .././classes/class_menu_edit.php:227
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: .././classes/class_tgm.php:164 .././plugins.php:31
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Necesarios"
+
+#: .././classes/class_tgm.php:165 .././plugins.php:32
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: .././classes/class_tgm.php:166 .././plugins.php:33
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: .././classes/class_tgm.php:167
+msgid "Something went wrong."
+msgstr "Ha ocurrido un error."
+
+#: .././classes/class_tgm.php:178 .././classes/class_tgm.php:490
+#: .././plugins.php:45
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al Instalador"
+
+#: .././classes/class_tgm.php:179 .././classes/class_tgm.php:1856
+#: .././plugins.php:46
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: .././classes/class_tgm.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins están instalados y activados correctamente. %1$s"
+
+#: .././classes/class_tgm.php:517 .././classes/class_tgm.php:2068
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: .././classes/class_tgm.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "El siguiente plugin se ha activado correctamente: %s."
+
+#: .././classes/class_tgm.php:655 .././templates/welcome.php:28
+msgid "Install Recommended Plugins"
+msgstr "Instalar Plugins Recomendados"
+
+#: .././classes/class_tgm.php:1101
+msgid "External Link"
+msgstr "Enlace Externo"
+
+#: .././classes/class_tgm.php:1106
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: .././classes/class_tgm.php:1109
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetado"
+
+#: .././classes/class_tgm.php:1113
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: .././classes/class_tgm.php:1116
+msgid "Required"
+msgstr "Requerido"
+
+#: .././classes/class_tgm.php:1116
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: .././classes/class_tgm.php:1119
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: .././classes/class_tgm.php:1121
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero Sin Activar"
+
+#: .././classes/class_tgm.php:1291
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Volver al Escritorio</a>"
+
+#: .././classes/class_tgm.php:1307
+msgid "Plugin"
+msgstr "Plugin"
+
+#: .././classes/class_tgm.php:1308
+msgid "Source"
+msgstr "Fuente"
+
+#: .././classes/class_tgm.php:1309
+msgid "Type"
+msgstr "Tipo"
+
+#: .././classes/class_tgm.php:1310
+msgid "Status"
+msgstr "Estado"
+
+#: .././classes/class_tgm.php:1328
+msgid "Install"
+msgstr "Instalar"
+
+#: .././classes/class_tgm.php:1329
+msgid "Activate"
+msgstr "Activar"
+
+#: .././classes/class_tgm.php:1839
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: .././classes/class_tgm.php:1840
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando paquete de instalación desde <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: .././classes/class_tgm.php:1841
+msgid "Unpacking the package&#8230;"
+msgstr "Descomprimiendo el paquete&#8230;"
+
+#: .././classes/class_tgm.php:1842
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el plugin&#8230;"
+
+#: .././classes/class_tgm.php:1843
+msgid "Plugin install failed."
+msgstr "La instalación del plugin ha fallado."
+
+#: .././classes/class_tgm.php:1844
+msgid "Plugin installed successfully."
+msgstr "El plugin se ha instalado correctamente."
+
+#: .././classes/class_tgm.php:1855
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: .././classes/class_tgm.php:1965
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación está comenzando. Este proceso puede "
+"tardar un poco en algunos alojamientos, así que por favor sé paciente."
+
+#: .././classes/class_tgm.php:1966
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado satisfactoriamente."
+
+#: .././classes/class_tgm.php:1966 .././classes/class_tgm.php:1975
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#: .././classes/class_tgm.php:1966 .././classes/class_tgm.php:1975
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: .././classes/class_tgm.php:1967
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: .././classes/class_tgm.php:1968
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: .././classes/class_tgm.php:1972
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tardar un poco "
+"en algunos alojamientos, así que por favor sé paciente."
+
+#: .././classes/class_tgm.php:1973
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Ha ocurrido un error mientras se instalaba %1$s: <strong>%2$s</strong>."
+
+#: .././classes/class_tgm.php:1974
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: .././classes/class_tgm.php:1975
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s se ha instalado satisfactoriamente."
+
+#: .././classes/class_tgm.php:1976
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: .././classes/class_tgm.php:1977
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: .././classes/class_updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Actualizar este tema eliminará cualquier modificación que hayas realizado."
+
+#: .././cposts/cpost_clients.php:14 .././metadata/data_customizer.php:105
+#: .././metadata/data_general.php:331
+msgid "Clients"
+msgstr "Clientes"
+
+#: .././cposts/cpost_clients.php:15
+msgid "Client"
+msgstr "Cliente"
+
+#: .././cposts/cpost_clients.php:16
+msgid "Add Client"
+msgstr "Añadir Cliente"
+
+#: .././cposts/cpost_clients.php:17
+msgid "Add New Client"
+msgstr "Añadir Nuevo Cliente"
+
+#: .././cposts/cpost_clients.php:18
+msgid "Edit Client"
+msgstr "Editar Cliente"
+
+#: .././cposts/cpost_clients.php:19
+msgid "New Client"
+msgstr "Nuevo Cliente"
+
+#: .././cposts/cpost_clients.php:20
+msgid "View Client"
+msgstr "Ver Cliente"
+
+#: .././cposts/cpost_clients.php:21
+msgid "Search Clients"
+msgstr "Buscar Clientes"
+
+#: .././cposts/cpost_clients.php:22
+msgid "No clients found."
+msgstr "No se han encontrado clientes."
+
+#: .././cposts/cpost_clients.php:23
+msgid "No clients found in the trash."
+msgstr "No se han encontrado clientes en la papelera."
+
+#: .././cposts/cpost_clients.php:47 .././cposts/cpost_features.php:47
+#: .././cposts/cpost_portfolio.php:51 .././cposts/cpost_products.php:51
+#: .././cposts/cpost_services.php:52 .././cposts/cpost_slides.php:47
+#: .././cposts/cpost_team.php:48 .././cposts/cpost_testimonials.php:47
+msgid "Image"
+msgstr "Imagen"
+
+#: .././cposts/cpost_clients.php:48 .././cposts/cpost_features.php:48
+#: .././cposts/cpost_portfolio.php:52 .././cposts/cpost_products.php:52
+#: .././cposts/cpost_services.php:53 .././cposts/cpost_slides.php:48
+#: .././cposts/cpost_team.php:49 .././cposts/cpost_testimonials.php:48
+msgid "Title"
+msgstr "Título"
+
+#: .././cposts/cpost_clients.php:49 .././cposts/cpost_features.php:49
+#: .././cposts/cpost_portfolio.php:55 .././cposts/cpost_products.php:55
+#: .././cposts/cpost_services.php:56 .././cposts/cpost_slides.php:49
+#: .././cposts/cpost_team.php:51 .././cposts/cpost_testimonials.php:49
+msgid "Date"
+msgstr "Fecha"
+
+#: .././cposts/cpost_clients.php:50 .././cposts/cpost_features.php:51
+#: .././cposts/cpost_portfolio.php:57 .././cposts/cpost_products.php:57
+#: .././cposts/cpost_services.php:58 .././cposts/cpost_slides.php:51
+#: .././cposts/cpost_team.php:52 .././cposts/cpost_testimonials.php:50
+msgid "Author"
+msgstr "Autor"
+
+#: .././cposts/cpost_features.php:14 .././metadata/data_customizer.php:60
+#: .././metadata/data_general.php:322
+msgid "Features"
+msgstr "Caracter&iacute;sticas"
+
+#: .././cposts/cpost_features.php:15
+msgid "Feature"
+msgstr "Caracter&iacute;stica"
+
+#: .././cposts/cpost_features.php:16
+msgid "Add Feature"
+msgstr "Agregar Caracter&iacute;stica"
+
+#: .././cposts/cpost_features.php:17
+msgid "Add New Feature"
+msgstr "A&ntilde;adir Nueva Caracter&iacute;stica"
+
+#: .././cposts/cpost_features.php:18
+msgid "Edit Feature"
+msgstr "Editar Caracter&iacute;stica"
+
+#: .././cposts/cpost_features.php:19
+msgid "New Feature"
+msgstr "Nueva Caracter&iacute;stica"
+
+#: .././cposts/cpost_features.php:20
+msgid "View Features"
+msgstr "Ver Caracter&iacute;sticas"
+
+#: .././cposts/cpost_features.php:21
+msgid "Search Features"
+msgstr "Buscar Caracter&iacute;sticas"
+
+#: .././cposts/cpost_features.php:22
+msgid "No features found."
+msgstr "No se han encontrado caracter&iacute;sticas."
+
+#: .././cposts/cpost_features.php:23
+msgid "No features found in the trash."
+msgstr "No se han encontrado caracter&iacute;sticas en la papelera."
+
+#: .././cposts/cpost_features.php:50 .././cposts/cpost_portfolio.php:56
+#: .././cposts/cpost_products.php:56 .././cposts/cpost_services.php:57
+#: .././cposts/cpost_slides.php:50
+msgid "Comments"
+msgstr "Comentarios"
+
+#: .././cposts/cpost_portfolio.php:16 .././cposts/cpost_portfolio.php:17
+#: .././metadata/data_customizer.php:69 .././metadata/data_general.php:325
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: .././cposts/cpost_portfolio.php:18
+msgid "Add Portfolio Item"
+msgstr "Añadir Portafolio"
+
+#: .././cposts/cpost_portfolio.php:19
+msgid "Add New Portfolio Item"
+msgstr "Añadir Nuevo Portafolio"
+
+#: .././cposts/cpost_portfolio.php:20
+msgid "Edit Portfolio Item"
+msgstr "Editar Portafolio"
+
+#: .././cposts/cpost_portfolio.php:21
+msgid "New Portfolio Item"
+msgstr "Nuevo Portafolio"
+
+#: .././cposts/cpost_portfolio.php:22
+msgid "View Portfolio"
+msgstr "Ver Portafolio"
+
+#: .././cposts/cpost_portfolio.php:23
+msgid "Search Portfolio"
+msgstr "Buscar Portafolio"
+
+#: .././cposts/cpost_portfolio.php:24
+msgid "No portfolio items found."
+msgstr "No se han encontrado elementos del portafolio."
+
+#: .././cposts/cpost_portfolio.php:25
+msgid "No portfolio items found in the trash."
+msgstr "No se han encontrado elementos del portafolio en la papelera."
+
+#: .././cposts/cpost_portfolio.php:53 .././cposts/cpost_products.php:53
+#: .././cposts/cpost_services.php:54
+msgid "Categories"
+msgstr "Categorías"
+
+#: .././cposts/cpost_portfolio.php:54 .././cposts/cpost_products.php:54
+#: .././cposts/cpost_services.php:55
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: .././cposts/cpost_portfolio.php:67
+msgid "Portfolio Categories"
+msgstr "Categorías de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:68
+msgid "Portfolio Category"
+msgstr "Categoría de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:69 .././cposts/cpost_portfolio.php:72
+msgid "New Portfolio Category"
+msgstr "Nueva Categoría de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:70
+msgid "Add Portfolio Category"
+msgstr "Añadir Categoría de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:71
+msgid "Edit Portfolio Category"
+msgstr "Editar Categoría de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:73
+msgid "View Portfolio Category"
+msgstr "Ver Categoría de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:74
+msgid "Search Portfolio Categories"
+msgstr "Buscar Categorías de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:75
+msgid "No portfolio categories were found."
+msgstr "No se han encontrado categorías."
+
+#: .././cposts/cpost_portfolio.php:76
+msgid "No portfolio categories were found in the trash."
+msgstr "No se han encontrado categorías en la papelera."
+
+#: .././cposts/cpost_portfolio.php:99
+msgid "Portfolio Tags"
+msgstr "Etiquetas de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:100
+msgid "Portfolio Tag"
+msgstr "Etiqueta de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:101 .././cposts/cpost_portfolio.php:104
+msgid "New Portfolio Tag"
+msgstr "Nueva Etiqueta de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:102
+msgid "Add Portfolio Tag"
+msgstr "Añadir Etiqueta de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:103
+msgid "Edit Portfolio Tag"
+msgstr "Editar Etiqueta de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:105
+msgid "View Portfolio Tag"
+msgstr "Ver Etiqueta de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:106
+msgid "Search Portfolio Tags"
+msgstr "Buscar Etiquetas de Portafolio"
+
+#: .././cposts/cpost_portfolio.php:107
+msgid "No portfolio tags were found."
+msgstr "No se han encontrado etiquetas."
+
+#: .././cposts/cpost_portfolio.php:108
+msgid "No portfolio tags were found in the trash."
+msgstr "No se han encontrado etiquetas en la papelera."
+
+#: .././cposts/cpost_products.php:16
+msgid "Products"
+msgstr "Productos"
+
+#: .././cposts/cpost_products.php:17
+msgid "Product"
+msgstr "Producto"
+
+#: .././cposts/cpost_products.php:18
+msgid "Add Product"
+msgstr "Añadir Producto"
+
+#: .././cposts/cpost_products.php:19
+msgid "Add New Product"
+msgstr "Añadir Nuevo Producto"
+
+#: .././cposts/cpost_products.php:20
+msgid "Edit Product"
+msgstr "Editar Producto"
+
+#: .././cposts/cpost_products.php:21
+msgid "New Product"
+msgstr "Nuevo Producto"
+
+#: .././cposts/cpost_products.php:22
+msgid "View Products"
+msgstr "Ver Productos"
+
+#: .././cposts/cpost_products.php:23
+msgid "Search Products"
+msgstr "Buscar Productos"
+
+#: .././cposts/cpost_products.php:24
+msgid "No products found."
+msgstr "No se han encontrado productos."
+
+#: .././cposts/cpost_products.php:25
+msgid "No products found in the trash."
+msgstr "No se han encontrado productos en la papelera."
+
+#: .././cposts/cpost_products.php:67
+msgid "Product Categories"
+msgstr "Categorías"
+
+#: .././cposts/cpost_products.php:68
+msgid "Product Category"
+msgstr "Categoría"
+
+#: .././cposts/cpost_products.php:69 .././cposts/cpost_products.php:72
+msgid "New Product Category"
+msgstr "Nueva Categoría"
+
+#: .././cposts/cpost_products.php:70
+msgid "Add Product Category"
+msgstr "Añadir Categoría"
+
+#: .././cposts/cpost_products.php:71
+msgid "Edit Product Category"
+msgstr "Editar Categoría"
+
+#: .././cposts/cpost_products.php:73
+msgid "View Product Category"
+msgstr "Ver Categoría"
+
+#: .././cposts/cpost_products.php:74
+msgid "Search Product Categories"
+msgstr "Buscar Categoría"
+
+#: .././cposts/cpost_products.php:75
+msgid "No products categories were found."
+msgstr "No se han encontrado categorías."
+
+#: .././cposts/cpost_products.php:76
+msgid "No products categories were found in the trash."
+msgstr "No se han encontrado categorías en la papelera."
+
+#: .././cposts/cpost_products.php:99
+msgid "Product Tags"
+msgstr "Etiquetas"
+
+#: .././cposts/cpost_products.php:100
+msgid "Product Tag"
+msgstr "Etiqueta"
+
+#: .././cposts/cpost_products.php:101 .././cposts/cpost_products.php:104
+msgid "New Product Tag"
+msgstr "Nueva Etiqueta"
+
+#: .././cposts/cpost_products.php:102
+msgid "Add Product Tag"
+msgstr "Añadir Etiqueta"
+
+#: .././cposts/cpost_products.php:103
+msgid "Edit Product Tag"
+msgstr "Editar Etiqueta"
+
+#: .././cposts/cpost_products.php:105
+msgid "View Product Tag"
+msgstr "Ver Etiqueta"
+
+#: .././cposts/cpost_products.php:106
+msgid "Search Product Tags"
+msgstr "Buscar Etiquetas"
+
+#: .././cposts/cpost_products.php:107
+msgid "No product tags were found."
+msgstr "No se han encontrado etiquetas."
+
+#: .././cposts/cpost_products.php:108
+msgid "No product tags were found in the trash."
+msgstr "No se han encontrado etiquetas en la papelera."
+
+#: .././cposts/cpost_services.php:17 .././cposts/cpost_services.php:18
+#: .././metadata/data_customizer.php:78 .././metadata/data_general.php:328
+msgid "Services"
+msgstr "Servicios"
+
+#: .././cposts/cpost_services.php:19
+msgid "Add Service"
+msgstr "Añadir Servicio"
+
+#: .././cposts/cpost_services.php:20
+msgid "Add New Service"
+msgstr "Añadir Nuevo Servicio"
+
+#: .././cposts/cpost_services.php:21
+msgid "Edit Service"
+msgstr "Editar Servicio"
+
+#: .././cposts/cpost_services.php:22
+msgid "New Service"
+msgstr "Nuevo Servicio"
+
+#: .././cposts/cpost_services.php:23
+msgid "View Service"
+msgstr "Ver Servicio"
+
+#: .././cposts/cpost_services.php:24
+msgid "Search Services"
+msgstr "Buscar Servicios"
+
+#: .././cposts/cpost_services.php:25
+msgid "No services found."
+msgstr "No se han encontrado servicios."
+
+#: .././cposts/cpost_services.php:26
+msgid "No services found in the trash."
+msgstr "No se han encontrado servicios en la papelera."
+
+#: .././cposts/cpost_services.php:68
+msgid "Service Categories"
+msgstr "Categorías"
+
+#: .././cposts/cpost_services.php:69
+msgid "Service Category"
+msgstr "Categoría"
+
+#: .././cposts/cpost_services.php:70 .././cposts/cpost_services.php:73
+msgid "New Service Category"
+msgstr "Nueva Categoría"
+
+#: .././cposts/cpost_services.php:71
+msgid "Add Service Category"
+msgstr "Añadir Categoría"
+
+#: .././cposts/cpost_services.php:72
+msgid "Edit Service Category"
+msgstr "Editar Categoría"
+
+#: .././cposts/cpost_services.php:74
+msgid "View Service Category"
+msgstr "Ver Categoría"
+
+#: .././cposts/cpost_services.php:75
+msgid "Search Service Categories"
+msgstr "Buscar Categorías"
+
+#: .././cposts/cpost_services.php:76
+msgid "No services categories were found."
+msgstr "No se han encontrado categorías."
+
+#: .././cposts/cpost_services.php:77
+msgid "No services categories were found in the trash."
+msgstr "No se han encontrado categorías en la papelera."
+
+#: .././cposts/cpost_services.php:100
+msgid "Service Tags"
+msgstr "Etiquetas"
+
+#: .././cposts/cpost_services.php:101
+msgid "Service Tag"
+msgstr "Etiqueta"
+
+#: .././cposts/cpost_services.php:102 .././cposts/cpost_services.php:105
+msgid "New Service Tag"
+msgstr "Nueva Etiqueta"
+
+#: .././cposts/cpost_services.php:103
+msgid "Add Service Tag"
+msgstr "Añadir Etiqueta"
+
+#: .././cposts/cpost_services.php:104
+msgid "Edit Service Tag"
+msgstr "Editar Etiqueta"
+
+#: .././cposts/cpost_services.php:106
+msgid "View Service Tag"
+msgstr "Ver Etiqueta"
+
+#: .././cposts/cpost_services.php:107
+msgid "Search Service Tags"
+msgstr "Buscar Etiquetas"
+
+#: .././cposts/cpost_services.php:108
+msgid "No services tags were found."
+msgstr "No se han encontrado etiquetas."
+
+#: .././cposts/cpost_services.php:109
+msgid "No services tags were found in the trash."
+msgstr "No se han encontrado etiquetas en la papelera."
+
+#: .././cposts/cpost_slides.php:14
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: .././cposts/cpost_slides.php:15
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: .././cposts/cpost_slides.php:16 .././cposts/cpost_slides.php:19
+msgid "New Slide"
+msgstr "Nueva Diapositiva"
+
+#: .././cposts/cpost_slides.php:17
+msgid "Add New Slide"
+msgstr "A&ntilde;adir Nueva Diapositiva"
+
+#: .././cposts/cpost_slides.php:18
+msgid "Edit Slide"
+msgstr "Editar Diapositiva"
+
+#: .././cposts/cpost_slides.php:20
+msgid "View Slide"
+msgstr "Ver Diapositiva"
+
+#: .././cposts/cpost_slides.php:21
+msgid "Search Slides"
+msgstr "Buscar Diapositivas"
+
+#: .././cposts/cpost_slides.php:22
+msgid "No slides were found."
+msgstr "No se han encontrado diapositivas."
+
+#: .././cposts/cpost_slides.php:23
+msgid "No slides were found in the trash."
+msgstr "No se han encontrado diapositivas en la papelera."
+
+#: .././cposts/cpost_team.php:15 .././metadata/data_customizer.php:87
+#: .././metadata/data_general.php:334
+msgid "Team Members"
+msgstr "Equipo"
+
+#: .././cposts/cpost_team.php:16
+msgid "Team Member"
+msgstr "Miembro del Equipo"
+
+#: .././cposts/cpost_team.php:17
+msgid "Add Team Member"
+msgstr "Agregar Miembro"
+
+#: .././cposts/cpost_team.php:18
+msgid "Add New Team Member"
+msgstr "Añadir Nuevo Miembro"
+
+#: .././cposts/cpost_team.php:19
+msgid "Edit Team Member"
+msgstr "Editar Miembro"
+
+#: .././cposts/cpost_team.php:20
+msgid "New Team Member"
+msgstr "Nuevo Miembro"
+
+#: .././cposts/cpost_team.php:21
+msgid "View Team Member"
+msgstr "Ver Miembro"
+
+#: .././cposts/cpost_team.php:22
+msgid "Search Team Members"
+msgstr "Buscar Miembro"
+
+#: .././cposts/cpost_team.php:23
+msgid "No team members found."
+msgstr "No se han encontrado miembros."
+
+#: .././cposts/cpost_team.php:24
+msgid "No team members found in the trash."
+msgstr "No se han encontrado miembros en la papelera."
+
+#: .././cposts/cpost_team.php:50
+msgid "Groups"
+msgstr "Grupos"
+
+#: .././cposts/cpost_team.php:62
+msgid "Member Groups"
+msgstr "Grupos"
+
+#: .././cposts/cpost_team.php:63
+msgid "Member Group"
+msgstr "Grupo"
+
+#: .././cposts/cpost_team.php:64 .././cposts/cpost_team.php:67
+msgid "New Member Group"
+msgstr "Nuevo Grupo"
+
+#: .././cposts/cpost_team.php:65
+msgid "Add Member Group"
+msgstr "Añadir Grupo"
+
+#: .././cposts/cpost_team.php:66
+msgid "Edit Member Group"
+msgstr "Editar Grupo"
+
+#: .././cposts/cpost_team.php:68
+msgid "View Member Group"
+msgstr "Ver Grupo"
+
+#: .././cposts/cpost_team.php:69
+msgid "Search Member Groups"
+msgstr "Buscar Grupos"
+
+#: .././cposts/cpost_team.php:70
+msgid "No member groups were found."
+msgstr "No se han encontrado grupos."
+
+#: .././cposts/cpost_team.php:71
+msgid "No member groups were found in the trash."
+msgstr "No se han encontrado grupos en la papelera."
+
+#: .././cposts/cpost_testimonials.php:14 .././metadata/data_customizer.php:96
+#: .././metadata/data_general.php:337
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: .././cposts/cpost_testimonials.php:15
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: .././cposts/cpost_testimonials.php:16
+msgid "Add Testimonial"
+msgstr "Agregar Testimonio"
+
+#: .././cposts/cpost_testimonials.php:17
+msgid "Add New Testimonial"
+msgstr "Agregar Nuevo Testimonio"
+
+#: .././cposts/cpost_testimonials.php:18
+msgid "Edit Testimonial"
+msgstr "Editar Testimonio"
+
+#: .././cposts/cpost_testimonials.php:19
+msgid "New Testimonial"
+msgstr "Nuevo Testimonio"
+
+#: .././cposts/cpost_testimonials.php:20
+msgid "View Testimonial"
+msgstr "Ver Testimonio"
+
+#: .././cposts/cpost_testimonials.php:21
+msgid "Search Testimonials"
+msgstr "Buscar Testimonios"
+
+#: .././cposts/cpost_testimonials.php:22
+msgid "No testimonials found."
+msgstr "No se han encontrado testimonios."
+
+#: .././cposts/cpost_testimonials.php:23
+msgid "No testimonials found in the trash."
+msgstr "No se han encontrado testimonios en la papelera."
+
+#: .././custom.php:24 .././templates/welcome.php:13
+#, php-format
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: .././custom.php:25
+#, php-format
+msgid "Core %s"
+msgstr "Core %s"
+
+#: .././custom.php:26
+msgid "Help"
+msgstr "Ayuda"
+
+#: .././custom.php:39
+msgid "Changes have been saved."
+msgstr "Las opciones de configuraci&oacute;n han sido guardadas."
+
+#: .././custom.php:44
+msgid "Changes could not be saved."
+msgstr "Las opciones de configuraci&oacute;n no han podido ser guardadas."
+
+#: .././custom.php:116 .././custom.php:122 .././custom.php:185
+msgid "Save Settings"
+msgstr "Guardar"
+
+#: .././custom.php:260 .././custom.php:304
+msgid "More Themes"
+msgstr "Más Temas"
+
+#: .././custom.php:274
+msgid "Support Forum"
+msgstr "Foro De Soporte"
+
+#: .././custom.php:289
+msgid "Theme Version"
+msgstr "Versión Del Tema"
+
+#: .././custom.php:302
+msgid "Support Forums"
+msgstr "Foros De Soporte"
+
+#: .././custom.php:377
+msgid "default"
+msgstr "por defecto"
+
+#: .././filters.php:94 .././filters.php:117
+msgid "Portfolio Size"
+msgstr "Tamaño de Portafolio"
+
+#: .././filters.php:103
+msgid "Portfolio size"
+msgstr "Tamaño de portafolio"
+
+#: .././filters.php:104
+msgid "Max Width"
+msgstr "Anchura Máxima"
+
+#: .././filters.php:106
+msgid "Max Height"
+msgstr "Altura Máxima"
+
+#: .././forms.php:103
+msgid "Yes"
+msgstr "S&iacute;"
+
+#: .././forms.php:108
+msgid "No"
+msgstr "No"
+
+#: .././forms.php:300
+msgid "Upload"
+msgstr "Subir"
+
+#: .././forms.php:324
+msgid "This is a font preview image"
+msgstr "Esta es una vista previa"
+
+#: .././gallery.php:24
+#, php-format
+msgid ""
+"This is a list of all the images currently attached to this post. Learn more "
+"about how %s work in WordPress."
+msgstr ""
+"Esta es una lista de todas las imágenes adjuntas a este post. Aprende acerca "
+"de las %s en WordPress."
+
+#: .././gallery.php:24
+msgid "image attachments"
+msgstr "imágenes adjuntas"
+
+#: .././gallery.php:26
+msgid "Add Media"
+msgstr "Añadir Imágenes"
+
+#: .././gallery.php:27
+msgid "Refresh"
+msgstr "Actualizar"
+
+#: .././gallery.php:59
+msgid "Edit This Image"
+msgstr "Editar Esta Imagen"
+
+#: .././layout.php:126
+msgid "Default Widgets"
+msgstr "Widgets Por Defecto"
+
+#: .././layout.php:128
+msgid "Sidebar shown in all standard pages by default."
+msgstr "Barra lateral mostrada por defecto en todas las páginas."
+
+#: .././layout.php:134
+msgid "Secondary Widgets"
+msgstr "Widgets Secundarios"
+
+#: .././layout.php:136
+msgid "Shown in pages with more than one sidebar."
+msgstr "Mostrada en páginas con más de una barra lateral."
+
+#: .././layout.php:147
+msgid "Footer Widgets"
+msgstr "Widgets Del Pie"
+
+#: .././layout.php:148
+msgid "Shown in the footer area."
+msgstr "Mostrada en el &aacute;rea del pi&eacute; de p&aacute;gina."
+
+#: .././layout.php:160
+msgid "Top Menu"
+msgstr "Men&uacute; Superior"
+
+#: .././layout.php:161 .././metadata/data_customizer.php:523
+msgid "Main Menu"
+msgstr "Men&uacute; Principal"
+
+#: .././layout.php:162
+msgid "Footer Menu"
+msgstr "Men&uacute; Inferior"
+
+#: .././markup.php:24
+#, php-format
+msgid "Page %s"
+msgstr "P&aacute;gina %s"
+
+#: .././markup.php:46
+msgid "Archive"
+msgstr "Archivo"
+
+#: .././markup.php:48 .././markup.php:677
+msgid "Page Not Found"
+msgstr "Página No Encontrada"
+
+#: .././markup.php:50
+msgid "Search Results for"
+msgstr "Resultados para"
+
+#: .././markup.php:187 .././markup.php:1248 .././markup.php:1275
+msgid "Edit"
+msgstr "Editar"
+
+#: .././markup.php:413
+msgid ""
+"The requested page could not be found. It could have been deleted or changed "
+"location. Try searching for it using the search function."
+msgstr ""
+"La página solicitada no se ha encontrado. Puede que haya sido borrada o haya "
+"cambiado de sitio. Prueba a buscarla utilizando la función de búsqueda."
+
+#: .././markup.php:454
+#, php-format
+msgid "Theme designed by <a href=\"%s\">CPOThemes</a>."
+msgstr "Tema diseñado por <a href=\"%s\">CPOThemes</a>."
+
+#: .././markup.php:479
+msgid "Pages"
+msgstr "P&aacute;ginas"
+
+#: .././markup.php:485
+msgid "Post Categories"
+msgstr "Categorías"
+
+#: .././markup.php:487
+msgid "Post Tags"
+msgstr "Etiquetas"
+
+#: .././markup.php:668
+msgid "Search Results"
+msgstr "Resultados De La Búsqueda"
+
+#: .././markup.php:679
+msgid "Home"
+msgstr "Inicio"
+
+#: .././markup.php:702
+msgid "Search"
+msgstr "Buscar"
+
+#: .././markup.php:807
+msgid "No Comments"
+msgstr "Sin Comentarios"
+
+#: .././markup.php:809
+msgid "One Comment"
+msgstr "Un Comentario"
+
+#: .././markup.php:811
+#, php-format
+msgid "%1$s Comments"
+msgstr "%1$s Comentarios"
+
+#: .././markup.php:837
+msgid "Read More"
+msgstr "Leer Más"
+
+#: .././markup.php:865
+msgid "Website"
+msgstr "Sitio Web"
+
+#: .././markup.php:868
+msgid "Facebook"
+msgstr "Facebook"
+
+#: .././markup.php:871
+msgid "Twitter"
+msgstr "Twitter"
+
+#: .././markup.php:874
+msgid "Google+"
+msgstr "Google+"
+
+#: .././markup.php:877
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: .././markup.php:1028 .././markup.php:1030
+msgid "First"
+msgstr "Primera"
+
+#: .././markup.php:1042 .././markup.php:1044
+msgid "Last"
+msgstr "&Uacute;ltima"
+
+#: .././markup.php:1212
+msgid ""
+"This page is protected. Please type the password to be able to read its "
+"contents."
+msgstr ""
+"Esta página está protegida. Por favor, introduce la contraseña para ver los "
+"comentarios."
+
+#: .././markup.php:1226
+msgid "One comment"
+msgstr "Un comentario"
+
+#: .././markup.php:1228
+#, php-format
+msgid "%s comments"
+msgstr "%s comentarios"
+
+#: .././markup.php:1256
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: .././markup.php:1263
+msgid "Your comment is awaiting approval."
+msgstr "Tu comentario est&aacute; en proceso de aprobaci&oacute;n."
+
+#: .././markup.php:1287
+msgid "Older"
+msgstr "Antiguos"
+
+#: .././markup.php:1290
+msgid "Newer"
+msgstr "Nuevos"
+
+#: .././metaboxes.php:12 .././metaboxes.php:110
+msgid "Layout Options"
+msgstr "Opciones De Estructura"
+
+#: .././metaboxes.php:15
+msgid "Slide Options"
+msgstr "Opciones de Diapositiva"
+
+#: .././metaboxes.php:18
+msgid "Feature Options"
+msgstr "Opciones del Elemento"
+
+#: .././metaboxes.php:21
+msgid "Portfolio Options"
+msgstr "Opciones del Portafolio"
+
+#: .././metaboxes.php:22 .././metaboxes.php:26 .././metaboxes.php:30
+msgid "Attached Images"
+msgstr "Imágenes Adjuntas"
+
+#: .././metaboxes.php:25
+msgid "Product Options"
+msgstr "Opciones Del Producto"
+
+#: .././metaboxes.php:29
+msgid "Service Options"
+msgstr "Opciones del Servicio"
+
+#: .././metaboxes.php:33
+msgid "Client Options"
+msgstr "Opciones del Cliente"
+
+#: .././metaboxes.php:36
+msgid "Member Options"
+msgstr "Detalles del Miembro"
+
+#: .././metaboxes.php:39
+msgid "Testimonial Options"
+msgstr "Opciones del Testimonio"
+
+#: .././metaboxes.php:43
+msgid "Post Options"
+msgstr "Opciones de Entrada"
+
+#: .././metaboxes.php:44
+msgid "Page Options"
+msgstr "Opciones de Página"
+
+#: .././metadata/data_customizer.php:9
+msgid "Layout"
+msgstr "Estructura"
+
+#: .././metadata/data_customizer.php:10
+msgid ""
+"Here you can find settings that control the structure and positioning of "
+"specific elements within your website."
+msgstr ""
+"Aquí puedes encontrar ajustes que controlan la estructura y el "
+"posicionamiento de los elementos en tu sitio."
+
+#: .././metadata/data_customizer.php:14
+msgid "Content Areas"
+msgstr "Áreas de Contenido"
+
+#: .././metadata/data_customizer.php:15
+msgid "This theme includes a few areas where you can insert cutom content."
+msgstr ""
+"Este tema incluye algunas áreas donde puedes insertar contenido personalizado"
+
+#: .././metadata/data_customizer.php:30
+msgid "General Theme Options"
+msgstr "Opciones Generales"
+
+#: .././metadata/data_customizer.php:31
+msgid "Options that help you manage your theme better."
+msgstr "Opciones que te ayudan a gestionar mejor tu sitio."
+
+#: .././metadata/data_customizer.php:36
+msgid "Site Wide Structure"
+msgstr "Estructura General"
+
+#: .././metadata/data_customizer.php:37
+msgid "Settings that control the structure and positioning of design elements."
+msgstr ""
+"Ajustes que controlan la estructura y el posicionamiento de elementos en el "
+"diseño."
+
+#: .././metadata/data_customizer.php:43 .././metadata/data_customizer.php:133
+msgid "Homepage"
+msgstr "Página de Inicio"
+
+#: .././metadata/data_customizer.php:44
+msgid "Customize the appearance and behavior of the homepage elements."
+msgstr "Personaliza la apariencia y comportamiento de la página de inicio."
+
+#: .././metadata/data_customizer.php:51 .././metadata/data_general.php:319
+msgid "Slider"
+msgstr "Pase de Diapositivas"
+
+#: .././metadata/data_customizer.php:52
+msgid "Customize the appearance and behavior of the slider."
+msgstr "Personaliza la apariencia y comportamiento del pase de diapositivas."
+
+#: .././metadata/data_customizer.php:61
+msgid "Customize the appearance and behavior of the feature blocks."
+msgstr "Personaliza la apariencia y comportamiento de las características."
+
+#: .././metadata/data_customizer.php:70
+msgid "Customize the appearance and behavior of the portfolio."
+msgstr "Personaliza la apariencia y comportamiento del portafolio."
+
+#: .././metadata/data_customizer.php:79
+msgid "Customize the appearance and behavior of the services."
+msgstr "Personaliza la apariencia y comportamiento de los servicios."
+
+#: .././metadata/data_customizer.php:88
+msgid "Customize the appearance and behavior of the team listing."
+msgstr "Personaliza la apariencia y comportamiento del listado de equipo."
+
+#: .././metadata/data_customizer.php:97
+msgid "Customize the appearance and behavior of the testimonials."
+msgstr "Personaliza la apariencia y comportamiento de los testimonios."
+
+#: .././metadata/data_customizer.php:106
+msgid "Customize the appearance and behavior of the client listing."
+msgstr "Personaliza la apariencia y comportamiento de los clientes."
+
+#: .././metadata/data_customizer.php:113
+msgid "Blog Posts"
+msgstr "Entradas del Blog"
+
+#: .././metadata/data_customizer.php:114
+msgid ""
+"Modify the appearance and behavior of your blog posts by enabling specific "
+"elements."
+msgstr "Personaliza la apariencia y comportamiento de tus entradas en el blog."
+
+#: .././metadata/data_customizer.php:120
+msgid "Typography"
+msgstr "Tipografía"
+
+#: .././metadata/data_customizer.php:121
+msgid "Custom typefaces for the entire site."
+msgstr "Fuentes personalizadas para todo el sitio."
+
+#: .././metadata/data_customizer.php:126
+msgid "Site Wide Content"
+msgstr "Contenidos Generales"
+
+#: .././metadata/data_customizer.php:127
+msgid ""
+"Content areas located in common areas throughout the site. You can use HTML "
+"and shortcodes here."
+msgstr ""
+"Áreas de contenido comunes en todo el sitio. Puedes utilizar HTML y "
+"shortcodes aquí."
+
+#: .././metadata/data_customizer.php:134
+msgid ""
+"Add custom content to specific areas of the homepage. You can use HTML and "
+"shortcodes here."
+msgstr ""
+"Añade contenido personalizado a áreas específicas de la página de inicio. "
+"Aquí puedes utilizar tanto HTML como shortcodes."
+
+#: .././metadata/data_customizer.php:149
+msgid "Custom Logo"
+msgstr "Logo Personalizado"
+
+#: .././metadata/data_customizer.php:150
+msgid "Insert the URL of an image to be used as a custom logo."
+msgstr ""
+"Inserta la URL de una imagen para ser utilizada como logo personalizado."
+
+#: .././metadata/data_customizer.php:156
+msgid "Custom Favicon"
+msgstr "Favicon Personalizado"
+
+#: .././metadata/data_customizer.php:157
+msgid "Recommended sizes are 16x16 pixels."
+msgstr "El tamaño recomendado es de 16x16 píxeles."
+
+#: .././metadata/data_customizer.php:163
+msgid "Logo Width (px)"
+msgstr "Anchura del Logo (px)"
+
+#: .././metadata/data_customizer.php:164
+msgid "Forces the logo to have a specified width."
+msgstr "Hace que el logo tenga una anchura determinada."
+
+#: .././metadata/data_customizer.php:172
+msgid "Enable Text Title?"
+msgstr "¿Activar T&iacute;tulo en Texto?"
+
+#: .././metadata/data_customizer.php:173
+msgid "Activate this to display the site title as text."
+msgstr ""
+"Activa esta opci&oacute;n para mostrar el t&iacute;tulo del sitio como texto."
+
+#: .././metadata/data_customizer.php:179
+msgid "Show Edit Links"
+msgstr "Mostrar enlaces de edición"
+
+#: .././metadata/data_customizer.php:180
+msgid "Display edit links on the site layout for logged in users."
+msgstr ""
+"Muestra enlaces de edición en el contenido del sitio a los usuarios con "
+"permisos."
+
+#: .././metadata/data_customizer.php:186
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: .././metadata/data_customizer.php:187
+msgid ""
+"Add custom CSS styling for the entire site, overriding the default "
+"stylesheet."
+msgstr ""
+"Añade CSS personalizado para todo el sitio, sobreescribiendo la hoja de "
+"estilos por defecto."
+
+#: .././metadata/data_customizer.php:202
+msgid "Default Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: .././metadata/data_customizer.php:203
+msgid "This option can be overridden in individual pages."
+msgstr "Esta opción se puede cambiar en páginas individuales."
+
+#: .././metadata/data_customizer.php:210
+msgid "Number of Footer Columns"
+msgstr "Número de Columnas Del Pie"
+
+#: .././metadata/data_customizer.php:217
+msgid "Enable breadcrumb navigation"
+msgstr "Activar Migas De Pan"
+
+#: .././metadata/data_customizer.php:223
+msgid "Enable Language Switcher"
+msgstr "Activar Cambiador de Idioma"
+
+#: .././metadata/data_customizer.php:229
+msgid "Enable Shopping Cart"
+msgstr "Activar Carrito"
+
+#: .././metadata/data_customizer.php:235
+msgid "Show Credit Link"
+msgstr "Mostrar enlace en el pié"
+
+#: .././metadata/data_customizer.php:241
+msgid "Footer Text"
+msgstr "Texto del Pié"
+
+#: .././metadata/data_customizer.php:242
+msgid "Add custom text that replaces the copyright line in the footer."
+msgstr ""
+"Añade texto personalizado que reemplaza la línea de Copyright en el pié."
+
+#: .././metadata/data_customizer.php:249
+msgid "Social Links"
+msgstr "Enlaces Sociales"
+
+#: .././metadata/data_customizer.php:250
+msgid "Enter the URL of your preferred social profiles, one per line."
+msgstr ""
+"Introduce las URL de tus perfiles sociales preferidos, uno en cada línea."
+
+#: .././metadata/data_customizer.php:258
+msgid "Sidebar Position in Homepage"
+msgstr "Posición De La Barra Lateral En La Página de Inicio"
+
+#: .././metadata/data_customizer.php:259
+msgid ""
+"If you set a static page to serve as the homepage, this option will be "
+"overridden by that page's settings."
+msgstr ""
+"Si utilizas una página estática como página de inicio, esta opción será "
+"sobreescrita por la de dicha página."
+
+#: .././metadata/data_customizer.php:266
+msgid "Content Ordering"
+msgstr "Orden de Contenidos"
+
+#: .././metadata/data_customizer.php:267
+msgid "Change the ordering of the various elements in the homepage."
+msgstr "Cambia la ordenación de los elementos en la página de inicio."
+
+#: .././metadata/data_customizer.php:275
+msgid "Tagline Title"
+msgstr "Título de Coletilla"
+
+#: .././metadata/data_customizer.php:279
+msgid "Add your custom tagline here."
+msgstr "Añade tu eslogan personalizado aquí."
+
+#: .././metadata/data_customizer.php:286
+msgid "Slider Height (px)"
+msgstr "Altura de diapositivas (px)"
+
+#: .././metadata/data_customizer.php:293
+msgid "Slider Transition Speed (ms)"
+msgstr "Velocidad de Transición (ms)"
+
+#: .././metadata/data_customizer.php:300
+msgid "Slider Timeout (ms)"
+msgstr "Tiempo entre transiciones (ms)"
+
+#: .././metadata/data_customizer.php:307
+msgid "Always Display Slider"
+msgstr "Mostrar Diapositivas Siempre"
+
+#: .././metadata/data_customizer.php:308
+msgid "Shows the homepage slider in all pages."
+msgstr "Muestra las diapositivas en todas las páginas."
+
+#: .././metadata/data_customizer.php:317
+msgid "Features Description"
+msgstr "Descripción de Características"
+
+#: .././metadata/data_customizer.php:321
+msgid "Our core features"
+msgstr "Nuestras principales ventajas"
+
+#: .././metadata/data_customizer.php:326
+msgid "Features Columns"
+msgstr "Columnas de Características"
+
+#: .././metadata/data_customizer.php:336
+msgid "Portfolio Description"
+msgstr "Descripción del Portafolio"
+
+#: .././metadata/data_customizer.php:340
+msgid "Take a look at our work"
+msgstr "Echa un vistazo a nuestro trabajo"
+
+#: .././metadata/data_customizer.php:345
+msgid "Portfolio Columns"
+msgstr "Columnas del Portafolio"
+
+#: .././metadata/data_customizer.php:352
+msgid "Enable Related Portfolio Items"
+msgstr "Activar Portafolios Relacionados"
+
+#: .././metadata/data_customizer.php:353
+msgid ""
+"Shows portfolio items belonging to the same category at the end of each "
+"portfolio item."
+msgstr ""
+"Muestra elementos del portafolio que pertenecen a la misma categoría al "
+"final de cada portafolio."
+
+#: .././metadata/data_customizer.php:362
+msgid "Services Description"
+msgstr "Descripción de Servicios"
+
+#: .././metadata/data_customizer.php:366
+msgid "What we can offer you"
+msgstr "Lo que te podemos ofrecer"
+
+#: .././metadata/data_customizer.php:371
+msgid "Services Columns"
+msgstr "Columnas de Servicios"
+
+#: .././metadata/data_customizer.php:381
+msgid "Team Members Description"
+msgstr "Descripción de Equipo"
+
+#: .././metadata/data_customizer.php:385
+msgid "Meet our team"
+msgstr "Conoce a nuestro equipo"
+
+#: .././metadata/data_customizer.php:390
+msgid "Team Columns"
+msgstr "Columnas de Equipo"
+
+#: .././metadata/data_customizer.php:400
+msgid "Testimonials Description"
+msgstr "Descripción de Testimonios"
+
+#: .././metadata/data_customizer.php:404
+msgid "What they say about us"
+msgstr "Lo que dicen de nosotros"
+
+#: .././metadata/data_customizer.php:411
+msgid "Enable Posts On Homepage"
+msgstr "Entradas en la Página de Inicio"
+
+#: .././metadata/data_customizer.php:417
+msgid "Enable Post Dates"
+msgstr "Mostrar Fechas"
+
+#: .././metadata/data_customizer.php:424
+msgid "Enable Post Authors"
+msgstr "Mostrar Autores"
+
+#: .././metadata/data_customizer.php:430
+msgid "Enable Comment Count"
+msgstr "Mostrar Número de Comentarios"
+
+#: .././metadata/data_customizer.php:436
+msgid "Enable Post Categories"
+msgstr "Mostrar Categorías"
+
+#: .././metadata/data_customizer.php:442
+msgid "Enable Post Tags"
+msgstr "Mostrar Etiquetas"
+
+#: .././metadata/data_customizer.php:448
+msgid "Show Full Content on Blog Listing"
+msgstr "Mostrar Contenidos Completos en Listados"
+
+#: .././metadata/data_customizer.php:455
+msgid "Font Size"
+msgstr "Tamaño De Fuente"
+
+#: .././metadata/data_customizer.php:462 .././metadata/data_customizer.php:507
+msgid "Headings & Titles"
+msgstr "Cabeceras y Títulos"
+
+#: .././metadata/data_customizer.php:469
+msgid "Main Navigation Menu"
+msgstr "Menú de Navegación Principal"
+
+#: .././metadata/data_customizer.php:476 .././metadata/data_customizer.php:530
+msgid "Body Text"
+msgstr "Texto del Cuerpo"
+
+#: .././metadata/data_customizer.php:483
+msgid "Load Font Variants"
+msgstr "Cargar Variantes"
+
+#: .././metadata/data_customizer.php:484
+msgid ""
+"Loads additional font variations for the selected body typeface, if "
+"available. This will result in better-looking bold/light text."
+msgstr ""
+"Carga variaciones adicionales para la fuente de cuerpo seleccionada. Esto "
+"hará que los textos claros o en negrita tengan mejor aspecto."
+
+#: .././metadata/data_customizer.php:491
+msgid "Primary Color"
+msgstr "Color Primario"
+
+#: .././metadata/data_customizer.php:492
+msgid "Used in buttons, headings, and other prominent elements."
+msgstr "Utilizado en botones, cabeceras, y otros elementos prominentes."
+
+#: .././metadata/data_customizer.php:499
+msgid "Secondary Color"
+msgstr "Color Secundario"
+
+#: .././metadata/data_customizer.php:500
+msgid "Used in minor design elements and backgrounds."
+msgstr "Utilizado en elementos menores y en fondos."
+
+#: .././metadata/data_customizer.php:515
+msgid "Widget Titles"
+msgstr "Títulos de Widgets"
+
+#: .././metadata/data_customizer.php:537
+msgid "Hyperlinks"
+msgstr "Enlaces"
+
+#: .././metadata/data_general.php:9
+msgid "(Select a Slider...)"
+msgstr "(Selecciona un Pase de Diapositivas...)"
+
+#: .././metadata/data_general.php:16
+msgid "(Revolution Slider is not Active)"
+msgstr "(Revolution Slider está desactivado)"
+
+#: .././metadata/data_general.php:25
+msgid "To The Left"
+msgstr "A La Izquierda"
+
+#: .././metadata/data_general.php:26
+msgid "Centered"
+msgstr "Centrado"
+
+#: .././metadata/data_general.php:27
+msgid "To The Right"
+msgstr "A La Derecha"
+
+#: .././metadata/data_general.php:37
+msgid "Light Scheme"
+msgstr "Colores Claros"
+
+#: .././metadata/data_general.php:38
+msgid "Dark Scheme"
+msgstr "Colores Oscuros"
+
+#: .././metadata/data_general.php:48
+msgid "Standard Fonts"
+msgstr "Fuentes Estándar"
+
+#: .././metadata/data_general.php:54
+msgid "Serif Fonts"
+msgstr "Fuentes Serif"
+
+#: .././metadata/data_general.php:92
+msgid "Sans Serif Fonts"
+msgstr "Fuentes Sans Serif"
+
+#: .././metadata/data_general.php:167
+msgid "Display Fonts"
+msgstr "Fuentes Display"
+
+#: .././metadata/data_general.php:198
+msgid "Handwritten Fonts"
+msgstr "Fuentes Caligráficas"
+
+#: .././metadata/data_general.php:233 .././metadata/data_general.php:456
+msgid "Normal"
+msgstr "Normal"
+
+#: .././metadata/data_general.php:234
+msgid "Small"
+msgstr "Pequeño"
+
+#: .././metadata/data_general.php:235
+msgid "Medium"
+msgstr "Medio"
+
+#: .././metadata/data_general.php:236
+msgid "Large"
+msgstr "Grande"
+
+#: .././metadata/data_general.php:262
+msgid "Full Width"
+msgstr "Ancho Completo"
+
+#: .././metadata/data_general.php:263
+msgid "Boxed"
+msgstr "Caja"
+
+#: .././metadata/data_general.php:286
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: .././metadata/data_general.php:287
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: .././metadata/data_general.php:288
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: .././metadata/data_general.php:289
+msgid "Two opposite sidebars"
+msgstr "Barra lateral a ambos lados"
+
+#: .././metadata/data_general.php:290
+msgid "Two left sidebars"
+msgstr "Dos barras laterales izquierdas"
+
+#: .././metadata/data_general.php:291
+msgid "Two right sidebars"
+msgstr "Dos barras laterales derechas"
+
+#: .././metadata/data_general.php:316
+msgid "Featured Posts"
+msgstr "Entradas Destacadas"
+
+#: .././metadata/data_general.php:339
+msgid "Tagline"
+msgstr "Lema"
+
+#: .././metadata/data_general.php:375 .././metadata/data_general.php:448
+msgid "None"
+msgstr "(Ninguno)"
+
+#: .././metadata/data_general.php:376
+msgid "In The Slider"
+msgstr "En el Pase de Diapositivas"
+
+#: .././metadata/data_general.php:377
+msgid "In The Featured Boxes"
+msgstr "En los Bloques Destacados"
+
+#: .././metadata/data_general.php:384 .././metadata/data_general.php:408
+msgid "Two Columns"
+msgstr "Dos Columnas"
+
+#: .././metadata/data_general.php:385 .././metadata/data_general.php:409
+msgid "Three Columns"
+msgstr "Tres Columnas"
+
+#: .././metadata/data_general.php:386 .././metadata/data_general.php:410
+msgid "Four Columns"
+msgstr "Cuatro Columnas"
+
+#: .././metadata/data_general.php:387 .././metadata/data_general.php:411
+msgid "Five Columns"
+msgstr "Cinco Columnas"
+
+#: .././metadata/data_general.php:418
+msgid "Normal Header"
+msgstr "Cabecera Normal"
+
+#: .././metadata/data_general.php:419
+msgid "Minimal Header"
+msgstr "Cabecera Minimalista"
+
+#: .././metadata/data_general.php:420
+msgid "No Header"
+msgstr "Sin Cabecera"
+
+#: .././metadata/data_general.php:427
+msgid "Normal Title"
+msgstr "Título Normal"
+
+#: .././metadata/data_general.php:428
+msgid "Minimal Title"
+msgstr "Título Minimalista"
+
+#: .././metadata/data_general.php:429
+msgid "No Title"
+msgstr "Sin Título"
+
+#: .././metadata/data_general.php:436
+msgid "Normal Footer"
+msgstr "Pie Normal"
+
+#: .././metadata/data_general.php:437
+msgid "Minimal Footer"
+msgstr "Pie Minimalista"
+
+#: .././metadata/data_general.php:438
+msgid "No Footer"
+msgstr "Sin Pie"
+
+#: .././metadata/data_general.php:445
+msgid "Featured image"
+msgstr "Imagen Destacada"
+
+#: .././metadata/data_general.php:446
+msgid "Gallery of attached images"
+msgstr "Galería de imágenes adjuntas"
+
+#: .././metadata/data_general.php:447
+msgid "Slideshow of attached images"
+msgstr "Pase de diapositivas de imágenes adjuntas"
+
+#: .././metadata/data_general.php:457
+msgid "Highlighted"
+msgstr "Resaltado"
+
+#: .././metadata/data_general.php:458
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: .././metadata/data_general.php:467
+msgid "Name"
+msgstr "Nombre"
+
+#: .././metadata/data_metaboxes.php:10
+msgid "Sidebar Position"
+msgstr "Posici&oacute;n de la Barra Lateral"
+
+#: .././metadata/data_metaboxes.php:11
+msgid "Determines the location of the sidebar by default."
+msgstr "Determina la ubicaci&oacute;n de la barra lateral por defecto."
+
+#: .././metadata/data_metaboxes.php:20
+msgid "Page Slider"
+msgstr "Pase de Diapositivas"
+
+#: .././metadata/data_metaboxes.php:21
+#, php-format
+msgid "Sets a slider for this page. Requires the %s plugin."
+msgstr "Añade un pase de diapositivas a esta página. Requiere el plugin %s."
+
+#: .././metadata/data_metaboxes.php:30
+msgid "Page Header"
+msgstr "Cabecera De Página"
+
+#: .././metadata/data_metaboxes.php:31
+msgid "Specifies the format of the header for this page."
+msgstr "Especifica el formato de la cabecera para esta página."
+
+#: .././metadata/data_metaboxes.php:39
+msgid "Page Title"
+msgstr "Título De Página"
+
+#: .././metadata/data_metaboxes.php:40
+msgid "Specifies the format of the title heading for this page."
+msgstr "Especifica el formato del título de esta página."
+
+#: .././metadata/data_metaboxes.php:48
+msgid "Page Footer"
+msgstr "Pié De Página"
+
+#: .././metadata/data_metaboxes.php:49
+msgid "Specifies the format of the footer for this page."
+msgstr "Especifica el formato del pie de esta página."
+
+#: .././metadata/data_metaboxes.php:57
+msgid "Full Width Page"
+msgstr "Página de Ancho Completo"
+
+#: .././metadata/data_metaboxes.php:58
+msgid ""
+"Allows the page content to fill the entire width of the screen. Useful for "
+"creating full width rows with backgrounds."
+msgstr ""
+"Permite que el contenido de la página ocupe todo el ancho de la pantalla. "
+"Puede utilizarse para crear filas de ancho completo con fondos."
+
+#: .././metadata/data_metaboxes.php:73
+msgid "Slide Image"
+msgstr "Imagen de Diapositiva"
+
+#: .././metadata/data_metaboxes.php:74
+msgid "Add a complementary image to the slide."
+msgstr "Añade una imagen complementaria a la diapositiva."
+
+#: .././metadata/data_metaboxes.php:80 .././metadata/data_metaboxes.php:221
+msgid "Destination URL"
+msgstr "URL de Destino"
+
+#: .././metadata/data_metaboxes.php:81
+msgid "Specify a target URL to link the slide."
+msgstr "Indica una URL para enlazar la diapositiva."
+
+#: .././metadata/data_metaboxes.php:87
+msgid "Link Text"
+msgstr "Texto del Enlace"
+
+#: .././metadata/data_metaboxes.php:88
+msgid ""
+"Sets the text of the link for this slide. Requires a valid destination URL."
+msgstr ""
+"Indica el texto del enlace para esta diapositiva. Necesita tener una URL de "
+"destino válida."
+
+#: .././metadata/data_metaboxes.php:94
+msgid "Caption Position"
+msgstr "Posición de la Caja"
+
+#: .././metadata/data_metaboxes.php:95
+msgid "Determines where the caption of the slide is positioned."
+msgstr "Determina la posición del texto en la diapositiva."
+
+#: .././metadata/data_metaboxes.php:102
+msgid "Color Scheme"
+msgstr "Tipo de Colores"
+
+#: .././metadata/data_metaboxes.php:103
+msgid "Determines the color scheme used in the caption."
+msgstr "Determina el tono de los colores utilizados en la diapositiva."
+
+#: .././metadata/data_metaboxes.php:119
+msgid "Feature Icon"
+msgstr "Icono del Elemento"
+
+#: .././metadata/data_metaboxes.php:120
+msgid "Sets an icon to be used as the featured element."
+msgstr "Añade un icono para se utilizado como elemento destacado."
+
+#: .././metadata/data_metaboxes.php:126
+msgid "Target URL"
+msgstr "URL de Destino"
+
+#: .././metadata/data_metaboxes.php:127
+msgid "Sets a destination URL for this feature."
+msgstr "Indica una URL objetivo para este elemento."
+
+#: .././metadata/data_metaboxes.php:142 .././metadata/data_metaboxes.php:166
+#: .././metadata/data_metaboxes.php:190
+msgid "Featured Item"
+msgstr "Elemento Destacado"
+
+#: .././metadata/data_metaboxes.php:143 .././metadata/data_metaboxes.php:167
+#: .././metadata/data_metaboxes.php:191
+msgid "Specifies whether this item appears in the homepage."
+msgstr "Indica si este elemento aparece en la página de inicio."
+
+#: .././metadata/data_metaboxes.php:149 .././metadata/data_metaboxes.php:173
+#: .././metadata/data_metaboxes.php:204
+msgid "Media Layout"
+msgstr "Estructura de Imágenes"
+
+#: .././metadata/data_metaboxes.php:150 .././metadata/data_metaboxes.php:174
+#: .././metadata/data_metaboxes.php:205
+msgid ""
+"Specifies how the images attached to this item should be displayed. The "
+"featured image will be excluded from the list of elements."
+msgstr ""
+"Especifica cómo se deben mostrar las imágenes adjuntas a este elemento. La "
+"imagen destacada será excluida de la lista de elementos."
+
+#: .././metadata/data_metaboxes.php:197
+msgid "Service Icon"
+msgstr "Icono del Servicio"
+
+#: .././metadata/data_metaboxes.php:198
+msgid "Sets an icon to be used as the service preview."
+msgstr "Añade un icono para ser utilizado en la previsualización del servicio."
+
+#: .././metadata/data_metaboxes.php:222
+msgid "Links the client to a specific URL."
+msgstr "Enlaza el cliente a una URL específica."
+
+#: .././metadata/data_metaboxes.php:237
+msgid "Featured Member"
+msgstr "Miembro Destacado"
+
+#: .././metadata/data_metaboxes.php:238
+msgid "Specifies whether this member appears in the homepage."
+msgstr "Indica si este miembro del equipo aparece en la página de inicio."
+
+#: .././metadata/data_metaboxes.php:244
+msgid "Member Description"
+msgstr "Descripción del Miembro"
+
+#: .././metadata/data_metaboxes.php:245
+msgid "Specifies a small description for this team member."
+msgstr "Especifica una breve descripción para este miembro del equipo."
+
+#: .././metadata/data_metaboxes.php:251
+msgid "Social Profiles"
+msgstr "Perfiles Sociales"
+
+#: .././metadata/data_metaboxes.php:252
+msgid "Enter the URL of the social profiles for this team member."
+msgstr ""
+"Introduce la URL de los perfiles sociales para este miembro del equipo."
+
+#: .././metadata/data_metaboxes.php:268
+msgid "Testimonial Description"
+msgstr "Descripción del Testimonio"
+
+#: .././metadata/data_metaboxes.php:269
+msgid "Specifies a small description for this testimonial."
+msgstr "Indica una breve descripción para este testimonio."
+
+#: .././metadata/data_metaboxes.php:284
+msgid "Show In Homepage"
+msgstr "Mostrar en La Página de Inicio"
+
+#: .././metadata/data_metaboxes.php:285
+msgid "Specifies whether this item is featured in the homepage."
+msgstr "Indica si este elemento se muestra en la página de inicio."
+
+#: .././plugins.php:34
+msgid "Something went wrong with the plugin API."
+msgstr "Ha ocurrido un error con la API de Plugins."
+
+#: .././plugins.php:47
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins están instalados y activados correctamente. %s"
+
+#: .././templates/welcome.php:19
+#, php-format
+msgid ""
+"Thank you for choosing %s! To get started, make sure you have the %s plugin "
+"installed and then check the following list. We hope you enjoy using this "
+"theme to build an awesome WordPress website."
+msgstr ""
+"¡Gracias por elegir %s! Para empezar, asegúrate de tener el plugin %s "
+"instalado y después revisa la siguiente lista. Esperamos que disfrutes "
+"utilizando este tema para crear un sitio web increíble."
+
+#: .././templates/welcome.php:30
+msgid ""
+"This theme works well with a number of free plugins to unlock its full "
+"potential. It is highly recommended that you install them."
+msgstr ""
+"Este tema estápensado para funcionar con algunos plugins gratuitos para "
+"aprovechar todo su potencial. Es muy recomendable instalarlos."
+
+#: .././templates/welcome.php:34
+msgid "Install CPO Content Types"
+msgstr "Instalar CPO Content Types"
+
+#: .././templates/welcome.php:37
+msgid "Install CPO Shortcodes"
+msgstr "Instalar CPO Shortcodes"
+
+#: .././templates/welcome.php:40
+msgid "Install CPO Widgets"
+msgstr "Instalar CPO Widgets"
+
+#: .././templates/welcome.php:43
+msgid "Install CPO Content Blocks"
+msgstr "Instala CPO Content Blocks"
+
+#: .././templates/welcome.php:46
+msgid "Add Custom Content Types"
+msgstr "Añade Contenidos Especiales"
+
+#: .././templates/welcome.php:49
+msgid ""
+"This theme supports special content types. Populate the following and your "
+"site will take shape."
+msgstr ""
+"Este tema tiene soporte para contenidos especiales. Completa los siguientes "
+"y tu sitio tomará forma."
+
+#: .././templates/welcome.php:50
+#, php-format
+msgid "You will need the %s plugin."
+msgstr "Necesitarás el plugin %s."
+
+#: .././templates/welcome.php:54
+msgid "Start creating posts"
+msgstr "Empieza a crear entradas"
+
+#: .././templates/welcome.php:57
+msgid "Add slides to the homepage"
+msgstr "Añade diapositivas a la página de inicio"
+
+#: .././templates/welcome.php:60
+msgid "Add feature blocks to the homepage"
+msgstr "Añade características a la página de inicio"
+
+#: .././templates/welcome.php:63
+msgid "Create your portfolio items"
+msgstr "Crea tus entradas del portafolio"
+
+#: .././templates/welcome.php:66
+msgid "Showcase your products"
+msgstr "Muestra tus productos"
+
+#: .././templates/welcome.php:69
+msgid "List your services"
+msgstr "Añade tus servicios"
+
+#: .././templates/welcome.php:72
+msgid "Add some testimonials"
+msgstr "Agrega algunos testimonios"
+
+#: .././templates/welcome.php:75
+msgid "Add your team members"
+msgstr "Añade los miembros de tu equipo"
+
+#: .././templates/welcome.php:78
+msgid "Add your clients"
+msgstr "Añade tus clientes"
+
+#: .././templates/welcome.php:81
+msgid "Create a page with the Portfolio template"
+msgstr "Crea una página con la plantilla Portfolio"
+
+#: .././templates/welcome.php:84
+msgid "Create a page with the Products template"
+msgstr "Crea una página con la plantilla Products"
+
+#: .././templates/welcome.php:87
+msgid "Create a page with the Services template"
+msgstr "Crea una página con la plantilla Services"
+
+#: .././templates/welcome.php:90
+msgid "Create a page with the Team template"
+msgstr "Crea una página con la plantilla Team"
+
+#: .././templates/welcome.php:94
+msgid "Configure The Theme"
+msgstr "Configura El Tema"
+
+#: .././templates/welcome.php:96
+msgid ""
+"Add the finishing touch. Customize your theme using the theme options page, "
+"add your menus, and create your sidebar widgets."
+msgstr ""
+"Añade los últimos retoques. Personaliza tu tema utilizando la página de "
+"opciones, añade los menús, y crea los widgets."
+
+#: .././templates/welcome.php:98
+msgid "Customize the appearance of your site"
+msgstr "Personaliza la apariencia de tu sitio"
+
+#: .././templates/welcome.php:99
+msgid "Add your license key"
+msgstr "Añade tu clave de licencia"
+
+#: .././templates/welcome.php:100
+msgid "Set up the main navigation menu"
+msgstr "Asigna el menú de navegación principal"
+
+#: .././templates/welcome.php:101
+msgid "Add some widgets to your sidebar"
+msgstr "Añade algunos widgets a la barra lateral"
+
+#: .././update.php:7 .././update.php:13
+msgid "CPOThemes License"
+msgstr "Licencia CPOThemes"
+
+#: .././update.php:18
+msgid "Activate Your License"
+msgstr "Activa Tu Licencia"
+
+#: .././update.php:53
+msgid "The theme license you entered is invalid."
+msgstr "La licencia que has introducido no es válida."
+
+#: .././update.php:57
+msgid "Your license key has been activated."
+msgstr "Tu clave de licencia ha sido activada."
+
+#: .././update.php:61
+#, php-format
+msgid ""
+"Please add your CPOThemes license key in order to get automatic theme "
+"updates for %s directly from your WordPress site."
+msgstr ""
+"Por favor introduce tu clave de licencia para obtener actualizaciones "
+"automáticas para %s desde tu sitio WordPress."
+
+#: .././update.php:63 .././update.php:164
+msgid "Obtain the license key at CPOThemes"
+msgstr "Obtén la clave de licencia en CPOThemes"
+
+#: .././update.php:86
+msgid "License Key"
+msgstr "Clave de Licencia"
+
+#: .././update.php:87
+msgid ""
+"Add your theme license key to enable automatic updates from the dashboard."
+msgstr ""
+"Añade tu clave de licencia para obtener actualizaciones desde el panel de "
+"administración."
+
+#: .././update.php:87
+msgid "Get Your License Key."
+msgstr "Obtén Tu Clave de Licencia."
+
+#: .././update.php:157
+msgid "The theme license you entered is invalid!"
+msgstr "¡La clave de licencia es inválida!"
+
+#: .././update.php:160
+msgid ""
+"Please add your CPOThemes license key in order to get automatic theme "
+"updates from your dashboard."
+msgstr ""
+"Por favor añade tu clave de licencia de CPOThemes para obtener "
+"actualizaciones automáticas desde tu escritorio."
+
+#: .././update.php:162
+msgid "Enter License Key"
+msgstr "Introduce la Clave de Licencia"
+
+#~ msgid "Layout Style"
+#~ msgstr "Estilo"
+
+#~ msgid "%s Is Ready"
+#~ msgstr "%s Está Listo"
+
+#~ msgid ""
+#~ "Your new theme has been activated! To get started, check the following "
+#~ "list:"
+#~ msgstr ""
+#~ "¡Tu nuevo tema ha sido activado! Para empezar, revisa la siguiente lista:"
+
+#~ msgid ""
+#~ "This theme supports special content types. Populate the following and "
+#~ "your site will start taking shape."
+#~ msgstr ""
+#~ "Este tema soporta varios tipos de contenido especiales. Añade los "
+#~ "siguientes y tu sitio empezará a tomar forma."
+
+#~ msgid "Fixed"
+#~ msgstr "Fijo"
+
+#~ msgid "Theme Options"
+#~ msgstr "Opciones del Tema"
+
+#~ msgid "Header Text"
+#~ msgstr "Texto de Cabecera"
+
+#~ msgid "Add custom text in the header of the site."
+#~ msgstr "Añade texto personalizado en la cabecera del sitio."
+
+#~ msgid ""
+#~ "Enter the URL of your preferred social profiles so they will appear in "
+#~ "the site."
+#~ msgstr ""
+#~ "Introduce las URL de tus perfiles sociales preferidos para que aparezcan "
+#~ "en el sitio."
+
+#~ msgid "Main Tagline"
+#~ msgstr "Eslogan Principal"
+
+#~ msgid "Site Branding"
+#~ msgstr "Branding del Sitio"
+
+#~ msgid "Login Page Branding"
+#~ msgstr "Branding de la Página de Acceso"
+
+#~ msgid "Login Logo"
+#~ msgstr "Logo de Acceso"
+
+#~ msgid ""
+#~ "Insert the URL of an image to be used as a custom logo in the WordPress "
+#~ "login page."
+#~ msgstr ""
+#~ "Introduce la URL de una imagen para ser utilizada como logo personalizado."
+
+#~ msgid "Login Background"
+#~ msgstr "Fondo de la Página de Acceso"
+
+#~ msgid ""
+#~ "Insert the URL of an image to be used as a custom background image in the "
+#~ "WordPress login page."
+#~ msgstr ""
+#~ "Introduce la URL de una imagen para ser utilizada como fondo "
+#~ "personalizado en la página de acceso de WordPress."
+
+#~ msgid "Login Logo URL"
+#~ msgstr "URL del Logo de Acceso"
+
+#~ msgid "Insert the URL of the logo in the WordPress login page."
+#~ msgstr "Introduce la URL del logo en la página de acceso de WordPress."
+
+#~ msgid "Login Logo Title"
+#~ msgstr "Título del Logo de Acceso"
+
+#~ msgid "Insert the hover title of the logo in the WordPress login page."
+#~ msgstr ""
+#~ "Inserta aquí el título que aparece sobre el logo en la página de acceso "
+#~ "de WordPress."
+
+#~ msgid "Custom Login CSS"
+#~ msgstr "CSS de Acceso Personalizado"
+
+#~ msgid "Here you can add CSS rules to modify the login page as you need to."
+#~ msgstr "Aquí puedes añadir reglas CSS para modificar la página de acceso."
+
+#~ msgid "Management"
+#~ msgstr "Gestión"
+
+#~ msgid "Activate Edit Links"
+#~ msgstr "Activar Enlaces de Edición"
+
+#~ msgid "Display shortcut edit links on content elements for logged in users."
+#~ msgstr ""
+#~ "Muestra enlaces de edición en el contenido para usuarios identificados."
+
+#~ msgid "Theme License Key"
+#~ msgstr "Clave de Licencia"
+
+#~ msgid ""
+#~ "Add your theme license key to enable automatic updates from your "
+#~ "WordPress dashboard."
+#~ msgstr ""
+#~ "Añade tu clave de licencia para activar las actualizaciones automáticas "
+#~ "desde tu panel de WordPress."
+
+#~ msgid "Customization"
+#~ msgstr "Personalización"
+
+#~ msgid ""
+#~ "Here you can insert custom CSS styling for the entire site. This code "
+#~ "will override the default stylesheet, but it might not have higher "
+#~ "priority than plugins."
+#~ msgstr ""
+#~ "Aquí puedes insertar código CSS personalizado para todo el sitio. Este "
+#~ "código sobreescribirá la hoja de estilos del tema, pero puede que no "
+#~ "tenga prioridad sobre plugins."
+
+#~ msgid "General Layout"
+#~ msgstr "Estructura General"
+
+#~ msgid ""
+#~ "Determines the location of the sidebar by default. This option can be "
+#~ "overidden in individual pages."
+#~ msgstr ""
+#~ "Determina la ubicación de la barra lateral por defecto. Esta opción puede "
+#~ "ser cambiada en páginas individuales."
+
+#~ msgid ""
+#~ "Determines the location of the sidebar by default on the homepage. If you "
+#~ "set a static page to serve as the homepage, this option will be "
+#~ "overridden by that page's settings."
+#~ msgstr ""
+#~ "Determina la posición de la barra lateral en la página de inicio. Si "
+#~ "estableces una página estática como la página de inicio, esta opción será "
+#~ "sobre-escrita por la configuración de dicha página."
+
+#~ msgid ""
+#~ "Specifies the number of columns to display in the footer of the site. "
+#~ "Each column is a customizable widget area."
+#~ msgstr ""
+#~ "Indica el número de columnas a mostrar en el pié del sitio. Cada columna "
+#~ "es un ára de widgets personalizable."
+
+#~ msgid ""
+#~ "Displays a listing of the most recent posts on the homepage, turning your "
+#~ "site into a blog. If you wish to have a custom homepage, turn this option "
+#~ "off."
+#~ msgstr ""
+#~ "Muestra un listado de las entradas más recientes en la página de inicio, "
+#~ "convirtiendo tu sitio en un blog. Si deseas tener una página de inicio "
+#~ "personalizada, desactiva esta opción."
+
+#~ msgid "Enable Breadcrumbs"
+#~ msgstr "Activar Migas de Pan"
+
+#~ msgid ""
+#~ "Enables or disables breadcrumb navigation on all pages. If you are going "
+#~ "to use a breadcrumb plugin, disabling this option is recommended."
+#~ msgstr ""
+#~ "Activa o desactiva la navegación de migas de pan en todas las páginas. Si "
+#~ "vas a utilizar un plugin de migas de pan, es recomendable desactivar esta "
+#~ "opción."
+
+#~ msgid ""
+#~ "Enables or disables the language switcher located in the header. Requires "
+#~ "the WPML plugin."
+#~ msgstr ""
+#~ "Activa o desactiva el cambiador de idioma ubicado en la cabecera. "
+#~ "Requiere el plugin WPML."
+
+#~ msgid ""
+#~ "Enables or disables the shopping cart located in the header. Requires the "
+#~ "WooCommerce plugin."
+#~ msgstr ""
+#~ "Activa o desactiva el carrito de la compra ubicado en la cabecera. "
+#~ "Requiere el plugin Woocommerce."
+
+#~ msgid "Enable Credit Link"
+#~ msgstr "Activar Enlace En El Pié"
+
+#~ msgid ""
+#~ "Enables a small, non-obtrusive credit link in the footer. If you decide "
+#~ "to activate it, thanks a lot for supporting CPOThemes!"
+#~ msgstr ""
+#~ "Activa un pequeño e inobtrusivo enlace en el pié de página dando crédito "
+#~ "a los creadores de este tema. Si decides activarlo, ¡muchas gracias por "
+#~ "apoyar a CPOThemes! "
+
+#~ msgid "Determines the overall size of the text used throughout the site."
+#~ msgstr "Determina el tamaño de fuente utilizado en todo el sitio."
+
+#~ msgid "Headings Font"
+#~ msgstr "Fuente de Cabeceras"
+
+#~ msgid "Determines the font used in the headings and titles."
+#~ msgstr "Determina la fuente utilizada en cabeceras y títulos."
+
+#~ msgid "Navigation Font"
+#~ msgstr "Fuente de Menús"
+
+#~ msgid "Determines the font used in the primary navigation menu."
+#~ msgstr "Determina la fuente utilizada en los menús de navegación."
+
+#~ msgid "Body Font"
+#~ msgstr "Fuente del Cuerpo"
+
+#~ msgid "Determines the font used in the body content."
+#~ msgstr "Determina el color del texto utilizado en el cuerpo del contenido."
+
+#~ msgid ""
+#~ "Loads additional font variations for the selected body typeface, if "
+#~ "available. This will result in better-looking bold/light text, but will "
+#~ "also increase load."
+#~ msgstr ""
+#~ "Carga variantes adicionales para la fuente del cuerpo seleccionada, si "
+#~ "están disponibles. Esto resultará en mejores textos en negrita, pero "
+#~ "aumentará el peso del sitio."
+
+#~ msgid "Coloring"
+#~ msgstr "Color"
+
+#~ msgid ""
+#~ "Determines the main color scheme of the site. This color will be used in "
+#~ "buttons, headings, and other prominent elements."
+#~ msgstr ""
+#~ "Determina el color principal del sitio. Este color será utilizado en "
+#~ "botones, cabeceras, y otros elementos prominentes."
+
+#~ msgid ""
+#~ "Determines the secondary color scheme of the site. This color will be "
+#~ "used in minor design elements."
+#~ msgstr ""
+#~ "Determina el color secundario del sitio. Este color se utiliza en "
+#~ "elementos menores del diseño."
+
+#~ msgid "Headings Color"
+#~ msgstr "Color de Cabeceras"
+
+#~ msgid "Widget Title Color"
+#~ msgstr "Color de Títulos de Widgets"
+
+#~ msgid "Main Menu Color"
+#~ msgstr "Color del Menú Principal"
+
+#~ msgid "Body Text Color"
+#~ msgstr "Color de Texto"
+
+#~ msgid "Hyperlink Color"
+#~ msgstr "Color de Enlaces"
+
+#~ msgid "Overall Site"
+#~ msgstr "Sitio general"
+
+#~ msgid "Custom Header Text"
+#~ msgstr "Texto de Cabecera Personalizado"
+
+#~ msgid ""
+#~ "Allows you to insert custom text in the header of the site. The position "
+#~ "of this area changes depending on the type of header selected. You can "
+#~ "use HTML in here, as well as shortcodes."
+#~ msgstr ""
+#~ "Te permite insertar texto personalizado en la cabecera del sitio. La "
+#~ "posición de este espacio cambia dependiendo del tipo de cabecera "
+#~ "seleccionado. Aquí puedes utilizar tanto HTML como shortcodes."
+
+#~ msgid "Custom Footer Text"
+#~ msgstr "Texto de Pié Personalizado"
+
+#~ msgid ""
+#~ "Allows you to insert custom text that replaces the normal copyright line "
+#~ "in the footer. You can use HTML in here, as well as shortcodes."
+#~ msgstr ""
+#~ "Te permite insertar texto personalizado que reemplaza la línea de "
+#~ "copyright por defecto en el pié. Aquí puedes utilizar tanto HTML como "
+#~ "shortcodes."
+
+#~ msgid "Post Appearance"
+#~ msgstr "Apariencia de Entradas"
+
+#~ msgid "Display Post Dates"
+#~ msgstr "Mostrar Fechas"
+
+#~ msgid "Toggles display of authors in posts."
+#~ msgstr "Determina si se muestran los nombres de los autores en entradas."
+
+#~ msgid "Display Post Authors"
+#~ msgstr "Mostrar Autores"
+
+#~ msgid "Display Comment Count"
+#~ msgstr "Mostrar Número de Comentarios"
+
+#~ msgid "Toggles display of comment count in posts."
+#~ msgstr "Determina si se muestra el número de comentarios en las entradas."
+
+#~ msgid "Display Post Categories"
+#~ msgstr "Mostrar Categorías"
+
+#~ msgid "Determines whether post categories are displayed or not."
+#~ msgstr "Determina si se muestran las categorías en las entradas."
+
+#~ msgid "Display Post Tags"
+#~ msgstr "Mostrar Etiquetas"
+
+#~ msgid "Determines whether post tags are displayed or not."
+#~ msgstr "Determina si se muestran las etiquetas en entradas."
+
+#~ msgid "Display Full Previews"
+#~ msgstr "Mostrar Entradas Completas"
+
+#~ msgid "Determines whether post lists display the full content or not."
+#~ msgstr ""
+#~ "Determina si las entradas muestran todo el contenido o sólo un extracto."
+
+#~ msgid "Portfolio Slugs"
+#~ msgstr "Slugs del Portafolio"
+
+#~ msgid "Portfolio Slug"
+#~ msgstr "Slug de Portafolio"
+
+#~ msgid ""
+#~ "Indicates the slug to be used in the URL for individual portfolio items."
+#~ msgstr "Indica el slug a utilizar en las"
+
+#~ msgid "Facebook Page"
+#~ msgstr "Página de Facebook"
+
+#~ msgid "Enter the URL of your Facebook page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Facebook para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Twitter Page"
+#~ msgstr "Página de Twitter"
+
+#~ msgid "Enter the URL of your Twitter page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Twitter para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Google Plus Page"
+#~ msgstr "Página de Google Plus"
+
+#~ msgid ""
+#~ "Enter the URL of your Google Plus page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Google Plus para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "YouTube Page"
+#~ msgstr "Página de YouTube"
+
+#~ msgid "Enter the URL of your YouTube profile to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de YouTube para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "LinkedIn Page"
+#~ msgstr "Página de LinkedIn"
+
+#~ msgid "Enter the URL of your LinkedIn page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de LinkedIn para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Pinterest Page"
+#~ msgstr "Página de Pinterest"
+
+#~ msgid "Enter the URL of your Pinterest page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Pinterest para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Foursquare Page"
+#~ msgstr "Página de Foursquare"
+
+#~ msgid "Enter the URL of your Foursquare page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Foursquare para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Tumblr Page"
+#~ msgstr "Página de Tumblr"
+
+#~ msgid "Enter the URL of your Tumblr page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Tumblr para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Flickr Page"
+#~ msgstr "Página de Flickr"
+
+#~ msgid "Enter the URL of your Flickr page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Flickr para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Instagram Page"
+#~ msgstr "Página de Instagram"
+
+#~ msgid "Enter the URL of your Instagram page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Instagram para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Dribbble Page"
+#~ msgstr "Página de Dribbble"
+
+#~ msgid "Enter the URL of your Dribbble page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu página de Dribbble para mostrar un enlace en el "
+#~ "sitio."
+
+#~ msgid "Skype Page"
+#~ msgstr "Página de Skype"
+
+#~ msgid "Enter the URL of your Skype page to display a link in the site."
+#~ msgstr ""
+#~ "Introduce la URL de tu perfil de Skype para mostrar un enlace en el sitio."
+
+#~ msgid "Global configuration options applied to the entire site."
+#~ msgstr "Opciones generales aplicables a todo el sitio web."
+
+#~ msgid "Specify how you want the structure of the site to look."
+#~ msgstr "Determina la estructura visual del sitio."
+
+#~ msgid "If enabled, the homepage slider will be displayed in all pages."
+#~ msgstr "Si se activa, el pase de diapositivas aparecerá en todo el sitio."
+
+#~ msgid ""
+#~ "Enables or disables the related portfolio items listing in each portfolio "
+#~ "item page."
+#~ msgstr ""
+#~ "Activa o desactiva los elementos de portafolio relacionados en cada "
+#~ "página del portafolio."
+
+#~ msgid "Determines the number of columns for the portfolio."
+#~ msgstr "Determina el número de columnas del portafolio."
+
+#~ msgid "Styling"
+#~ msgstr "Estilizado"
+
+#~ msgid "Set up the look & feel of the site."
+#~ msgstr "Configura la apariencia del sitio."
+
+#~ msgid "Styles the appearance of posts and pages."
+#~ msgstr "Estiliza la apariencia de las entradas y páginas."
+
+#~ msgid "%s Is Now Ready"
+#~ msgstr "%s Ya Está Listo"
+
+#~ msgid ""
+#~ "This theme comes with special content types. Populate the following and "
+#~ "your site will start taking shape on its own."
+#~ msgstr ""
+#~ "Este tema trae tipos de contenido especiales. Crea los siguientes y tu "
+#~ "página empezará a tomar forma por sí misma."
+
+#~ msgid "Create Special Listing Pages"
+#~ msgstr "Crea Las Páginas de Listado"
+
+#~ msgid ""
+#~ "Add specific pages such as the main portfolio listing, or the blog. "
+#~ "Simply create a new page and use the corresponding template."
+#~ msgstr ""
+#~ "Añade páginas específicas como el portafolios o el blog. Sólo crea una "
+#~ "página nueva y asígnale la plantilla correspondiente."
+
+#~ msgid "Create a page with the Blog template"
+#~ msgstr "Crea una página con la plantilla Blog"
+
+#~ msgid "Configure the theme options page"
+#~ msgstr "Configura la página de opciones"
+
+#~ msgid "Go To..."
+#~ msgstr "Ir A..."
+
+#~ msgid "(None)"
+#~ msgstr "(Ninguno)"
+
+#~ msgid "Custom Logo Width"
+#~ msgstr "Anchura Del Logo"
+
+#~ msgid ""
+#~ "Forces the logo to have a specified width, in pixels. You can use an "
+#~ "image twice as big to scale down the actual logo, and get a better result "
+#~ "in high-resolution screens."
+#~ msgstr ""
+#~ "Hace que el logo tenga una anchura determinada, en píxeles. Puedes "
+#~ "utilizar una imagen mayor que el tamaño especificado para obtener un "
+#~ "mejor resultado en pantallas de alta definición."
+
+#~ msgid ""
+#~ "Insert the URL of an image to be used as a custom favicon. Recommended "
+#~ "sizes are 16x16 pixels."
+#~ msgstr ""
+#~ "Inserta la URL de una imagen para ser utilizada como favicon "
+#~ "personalizado. El tamaño recomendado es de 16x16 píxeles."
+
+#~ msgid "Activate Edit Links?"
+#~ msgstr "¿Activar Enlaces de Edición?"
+
+#~ msgid ""
+#~ "Activate this option to display shortcut edit links through out the site "
+#~ "for logged in users."
+#~ msgstr ""
+#~ "Activa esta opción para mostrar enlaces de edición en todo el sitio para "
+#~ "usuarios identificados y con permisos."
+
+#~ msgid ""
+#~ "Insert your theme license here in order to get updates straight from your "
+#~ "WordPress dashboard."
+#~ msgstr ""
+#~ "Introduce tu clave de licencia aquí para obtener actualizaciones "
+#~ "directamente desde tu escritorio WordPress."
+
+#~ msgid "Custom Javascript"
+#~ msgstr "Javascript Personalizado"
+
+#~ msgid "Here you can insert custom Javascript code for the entire site."
+#~ msgstr "Aquí puedes insertar Javascript personalizado para todo el sitio."
+
+#~ msgid "Sidebar Position in Archives"
+#~ msgstr "Posición De La Barra Lateral En Archivos"
+
+#~ msgid ""
+#~ "Determines the location of the sidebar by default on archive pages, like "
+#~ "post categories. <b>Special pages like bbPress forums or the WooCommerce "
+#~ "shop pages count as archives and will be affected by this option</b>."
+#~ msgstr ""
+#~ "Determina la posición de la barra lateral en páginas de archivo, como "
+#~ "categorías. <b>Páginas especiales como los foros de bbPress o la tienda "
+#~ "de WooCommerce cuentan como páginas de archivo, y serán afectados por "
+#~ "esta opción.</b>"
+
+#~ msgid "Enable Responsive Design"
+#~ msgstr "Activar Diseño Responsivo"
+
+#~ msgid "Toggles the responsive mode of the site for mobile devices."
+#~ msgstr "Activa o desactiva el modo responsivo para dispositivos móviles."
+
+#~ msgid "Determines the color of headings and titles."
+#~ msgstr "Determina el color de las cabeceras y títulos."
+
+#~ msgid "Widgets Color"
+#~ msgstr "Color de Widgets"
+
+#~ msgid "Determines the color of widget titles."
+#~ msgstr "Determina el color para los títulos de widgets."
+
+#~ msgid "Navigation Color"
+#~ msgstr "Color de Menús"
+
+#~ msgid "Determines the color of the primary navigation menu."
+#~ msgstr "Determina el color del menú de navegación."
+
+#~ msgid "Body Color"
+#~ msgstr "Color del Cuerpo"
+
+#~ msgid "Determines the color of the body text."
+#~ msgstr "Determina el color del texto de cuerpo."
+
+#~ msgid "Determines the color of hyperlinks."
+#~ msgstr "Determina el color de los enlaces."
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Ocultar este aviso"
+
+#~ msgid "Add Image"
+#~ msgstr "Agregar Imagen"
+
+#~ msgid "Upload Images"
+#~ msgstr "Subir Imágenes"
+
+#~ msgid "Manage Gallery"
+#~ msgstr "Gestionar Galería"
+
+#~ msgid "Analytics Tracking Code"
+#~ msgstr "C&oacute;digo de Rastreo Anal&iacute;tico"
+
+#~ msgid "Insert here your analytics tool's tracking code."
+#~ msgstr ""
+#~ "Inserta aqu&iacute; el c&oacute;digo de rastreo de tu herramienta de "
+#~ "anal&iacute;tica web."
+
+#~ msgid ""
+#~ "Add specific pages such as the main portfolio listing, or the blog. "
+#~ "Simply create a new page and use the corresponding page template."
+#~ msgstr ""
+#~ "Añade páginas específicas como el portafolios o el blog. Simplemente crea "
+#~ "una página nueva y asígnale la plantilla correspondiente."
+
+#~ msgid "Sets a slider for this page. Requires the Revolution Slider plugin."
+#~ msgstr ""
+#~ "Añade un pase de diapositivas a esta página. Requiere el plugin "
+#~ "Revolution Slider."
+
+#~ msgid "Image Layout"
+#~ msgstr "Estructura de Imágenes"
+
+#~ msgid "Featured"
+#~ msgstr "Destacado"
+
+#~ msgid "Search Team"
+#~ msgstr "Buscar  Miembros"
+
+#~ msgid "No team items found."
+#~ msgstr "No se han encontrado miembros."
+
+#~ msgid "No team items found in the trash."
+#~ msgstr "No se han encontrado miembros en la papelera."
+
+#~ msgid "New Member Groups"
+#~ msgstr "Nuevo Grupo"
+
+#~ msgid "This is a font preview"
+#~ msgstr "Esta es una previsualización"
+
+#~ msgid "Author Archive"
+#~ msgstr "Archivo por Autor"
+
+#~ msgid "SEO Meta Tags"
+#~ msgstr "Etiquetas Meta SEO"
+
+#~ msgid "SEO Options"
+#~ msgstr "Opciones SEO"
+
+#~ msgid "Site wide SEO settings."
+#~ msgstr "Opciones SEO que afectan a todo el sitio."
+
+#~ msgid "Activate SEO"
+#~ msgstr "Activar SEO"
+
+#~ msgid ""
+#~ "Toggles SEO options globally. If you wish to use other plugins, turn this "
+#~ "setting off to avoid conflicts."
+#~ msgstr ""
+#~ "Activa las opciones SEO de forma global. Si deseas utilizar otros "
+#~ "plugins, desactiva esta opción para evitar conflictos."
+
+#~ msgid "Title Separator"
+#~ msgstr "Separador del T&iacute;tulo"
+
+#~ msgid ""
+#~ "Determines the separator in the title tag. If empty, defaults to the "
+#~ "standard separator ( | )."
+#~ msgstr ""
+#~ "Determina el separador utilizado en la etiqueta de título. Si se deja "
+#~ "vacío, se utilizará el separador estándar ( | )."
+
+#~ msgid "Default Description"
+#~ msgstr "Descripción por Defecto"
+
+#~ msgid ""
+#~ "This field will be used by default in posts and pages lacking a custom "
+#~ "description."
+#~ msgstr ""
+#~ "Este campo será utilizado por defecto en entradas y páginas sin una "
+#~ "descripción personalizada."
+
+#~ msgid "Default Keywords"
+#~ msgstr "Palabras Clave por Defecto"
+
+#~ msgid ""
+#~ "This field will be used by default in posts and pages lacking custom "
+#~ "keywords."
+#~ msgstr ""
+#~ "Este campo será utilizado por defecto en entradas y páginas sin palabras "
+#~ "clave personalizadas."
+
+#~ msgid ""
+#~ "Specifies a custom title for the home page. If empty, the standard title "
+#~ "formatting will be used."
+#~ msgstr ""
+#~ "Especifica un título personalizado en la página de inicio. Si se deja "
+#~ "vacío, se utilizará el formato estándar de los títulos."
+
+#~ msgid "Homepage Description"
+#~ msgstr "Descripción de la Página de Inicio"
+
+#~ msgid ""
+#~ "This field will be shown in the description meta tag in the homepage."
+#~ msgstr ""
+#~ "Este campo será mostrado en la etiqueta meta de descripción de la página "
+#~ "de Inicio."
+
+#~ msgid "Homepage Keywords"
+#~ msgstr "Palabras Clave de la página de Inicio."
+
+#~ msgid ""
+#~ "Specify the keywords that best define your site, comma-separated. This "
+#~ "field will be shown in the keywords meta tag in the homepage."
+#~ msgstr ""
+#~ "Especifica las palabras clave que mejor definen a tu sitio, separadas por "
+#~ "comas.Este campo será mostrado en la etiqueta meta de palabras clave en "
+#~ "la página de Inicio."
+
+#~ msgid "Custom Title"
+#~ msgstr "Título Personalizado"
+
+#~ msgid ""
+#~ "Creates a custom title for this post/page. If empty, standard title "
+#~ "formatting will be used instead."
+#~ msgstr ""
+#~ "Especifica un título personalizado para la página de inicio. Si se deja "
+#~ "vacío, se utilizará el formato normal para el título."
+
+#~ msgid "Custom Description"
+#~ msgstr "Descripción Personalizada"
+
+#~ msgid "Custom Keywords"
+#~ msgstr "Palabras Clave Personalizadas"
+
+#~ msgid ""
+#~ "Creates a custom keywords tag for this post/page. Keywords must be comma-"
+#~ "separated."
+#~ msgstr ""
+#~ "Crea una etiqueta de palabras clave específica para esta entrada/página. "
+#~ "Las palabras clave deben ir separadas por comas."
+
+#~ msgid "Menu of Children Pages"
+#~ msgstr "Menú de Subpáginas"
+
+#~ msgid "Menu of Sibling Pages"
+#~ msgstr "Menú de Páginas del Mismo Nivel"
+
+#~ msgid "This widget lets you display an advertising banner of any size."
+#~ msgstr ""
+#~ "Este widget te permite mostrar un banner de publicidad de cualquier "
+#~ "tamaño."
+
+#~ msgid "CPO - Ad Space"
+#~ msgstr "CPO - Banner Publicitario"
+
+#~ msgid "Link URL"
+#~ msgstr "URL del Enlace"
+
+#~ msgid "or"
+#~ msgstr "o"
+
+#~ msgid "Advertising Code"
+#~ msgstr "Código Publicitario"
+
+#~ msgid ""
+#~ "You can add an image linked to a specific URL, or alternatively paste "
+#~ "your advertising code."
+#~ msgstr ""
+#~ "Puedes añadir una imagen enlazada a una URL especícifa, o "
+#~ "alternativamente pegar tu código publicitario."
+
+#~ msgid "Displays a stream of photos from Flickr."
+#~ msgstr "Muestra una serie de fotos proveniente de Flickr."
+
+#~ msgid "CPO - Flickr Stream"
+#~ msgstr "CPO - Stream de Flickr"
+
+#~ msgid "User ID"
+#~ msgstr "ID de Usuario"
+
+#~ msgid "Number of Photos"
+#~ msgstr "Número de Fotos"
+
+#~ msgid "Displays elements from the portfolio."
+#~ msgstr "Muestra elementos del portafolio."
+
+#~ msgid "CPO - Portfolio Items"
+#~ msgstr "CPO - Portafolio"
+
+#~ msgid "Ordering"
+#~ msgstr "Ordenación"
+
+#~ msgid "By Order Field"
+#~ msgstr "Por Campo de Orden"
+
+#~ msgid "By Date"
+#~ msgstr "Por Fecha"
+
+#~ msgid "By Title"
+#~ msgstr "Por Título"
+
+#~ msgid "Displays the most recent items of your choice."
+#~ msgstr "Muestra las entradas más recientes de tu elección."
+
+#~ msgid "CPO - Recent Items"
+#~ msgstr "CPO - Entradas Recientes"
+
+#~ msgid "Type of Post"
+#~ msgstr "Tipo de Entrada"
+
+#~ msgid "Number of Posts"
+#~ msgstr "Número de Entradas"
+
+#~ msgid "Displays the most recent posts with date and thumbnail."
+#~ msgstr "Muestra las entradas más recientes con fecha y miniatura."
+
+#~ msgid "CPO - Recent Posts"
+#~ msgstr "CPO - Entradas Recientes"
+
+#~ msgid "Displays the subscriber count of your social networks."
+#~ msgstr "Muestra el número de suscriptores de tus redes sociales."
+
+#~ msgid "CPO - Subscriber Count"
+#~ msgstr "CPO - Contador de Suscriptores"
+
+#~ msgid "Fans"
+#~ msgstr "Fans"
+
+#~ msgid "Facebook Page Title or ID"
+#~ msgstr "Título de Página o ID de Facebook"
+
+#~ msgid "Displays the latest tweets for a specific Twitter user."
+#~ msgstr "Muestra los últimos tweets de un usuario de Twitter."
+
+#~ msgid "CPO - Twitter Stream"
+#~ msgstr "CPO - Stream de Twitter"
+
+#~ msgid "Twitter Username"
+#~ msgstr "Usuario de Twitter"
+
+#~ msgid "Number of Tweets"
+#~ msgstr "N&uacute;mero de Tweets"
+
+#~ msgid "API Settings"
+#~ msgstr "Opciones de la API"
+
+#~ msgid "Consumer Key"
+#~ msgstr "Clave de Consumidor"
+
+#~ msgid "Consumer Secret"
+#~ msgstr "Secreto de Consumidor"
+
+#~ msgid "Access Key"
+#~ msgstr "Clave de Acceso"
+
+#~ msgid "Access Secret"
+#~ msgstr "Secreto de Acceso"
+
+#~ msgid "<span class=\"icon-cogs\"></span> Edit"
+#~ msgstr "<span class=\"icon-cogs\"></span> Edit"
+
+#~ msgid "Daily Archive"
+#~ msgstr "Archivo Diario"
+
+#~ msgid "Monthly Archive"
+#~ msgstr "Archivo Mensual"
+
+#~ msgid "Yearly Archive"
+#~ msgstr "Archivo Anual"
+
+#~ msgid ""
+#~ "This page is protected. Please insert the password to be able to read its "
+#~ "contents."
+#~ msgstr ""
+#~ "Esta p&aacute;gina est&aacute; protegida. Por favor, introducte la "
+#~ "contrase&ntilde;a para poder acceder al contenido."
+
+#~ msgid "%1$s comments"
+#~ msgstr "%1$s comentarios"
+
+#~ msgid "Pingbacks"
+#~ msgstr "Pingbacks"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Los comentarios est&aacute;n cerrados."
+
+#~ msgid "Back to Portfolio"
+#~ msgstr "Volver al Portafolio"
+
+#~ msgid "Related Projects"
+#~ msgstr "Proyectos Relacionados"
+
+#~ msgid "This field cannot be left empty."
+#~ msgstr "Este campo no puede dejarse vac&iacute;o."
+
+#~ msgid "The email address has an incorrect format.."
+#~ msgstr "La direcci&oacute;n de correo tiene un formato incorrecto."
+
+#~ msgid "New contact form response by"
+#~ msgstr "Nueva respuesta en el formulario de contacto por"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "IP Address"
+#~ msgstr "Direcci&oacute;n IP"
+
+#~ msgid "Time"
+#~ msgstr "Hora"
+
+#~ msgid "Your message has been sent"
+#~ msgstr "Tu mensaje ha sido enviado."
+
+#~ msgid "The email address for the contact form is not configured."
+#~ msgstr ""
+#~ "La direcci&oacute;n de env&iacute; del formulario de contacto no "
+#~ "est&aacute; configurada."
+
+#~ msgid "Your message has been sent."
+#~ msgstr "Tu mensaje se ha enviado."
+
+#~ msgid "In order to complete this form, leave this field empty"
+#~ msgstr "Para completar el formulario, deja este campo vac&iacute;o"
+
+#~ msgid "Send"
+#~ msgstr "Enviar"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Sidebar shown in the blog page template."
+#~ msgstr "Barra lateral mostrada en la plantilla de blog."
+
+#~ msgid "Footer Sidebar 2"
+#~ msgstr "Barra Inferior 2"
+
+#~ msgid "Footer Sidebar 3"
+#~ msgstr "Barra Inferior 3"
+
+#~ msgid "Notices"
+#~ msgstr "Anuncios"
+
+#~ msgid "Notice"
+#~ msgstr "Anuncio"
+
+#~ msgid "Add Notice"
+#~ msgstr "Añadir Anuncio"
+
+#~ msgid "Add New Notice"
+#~ msgstr "Añadir Nuevo Anuncio"
+
+#~ msgid "Edit Notice"
+#~ msgstr "Editar Anuncio"
+
+#~ msgid "New Notice"
+#~ msgstr "Nuevo Anuncio"
+
+#~ msgid "View Notices"
+#~ msgstr "Ver Anuncios"
+
+#~ msgid "Search Notices"
+#~ msgstr "Buscar Anuncios"
+
+#~ msgid "No notices found."
+#~ msgstr "No se han encontrado anuncios."
+
+#~ msgid "Team"
+#~ msgstr "Equipo"
+
+#~ msgid "View Team Members"
+#~ msgstr "Ver Miembros"
+
+#~ msgid "Pingback:"
+#~ msgstr "Pingback:"
+
+#~ msgid "(Select a Page...)"
+#~ msgstr "(Selecciona una Página...)"
+
+#~ msgid "Display the featured image"
+#~ msgstr "Mostrar la imagen destacada"
+
+#~ msgid "Display a linked video"
+#~ msgstr "Muestra un video enlazado"
+
+#~ msgid "Do not display anything"
+#~ msgstr "No mostrar nada"
+
+#~ msgid "Four columns"
+#~ msgstr "Cuatro columnas"
+
+#~ msgid "Three columns"
+#~ msgstr "Tres columnas"
+
+#~ msgid "Two columns"
+#~ msgstr "Dos columnas"
+
+#~ msgid "One column"
+#~ msgstr "Una columna"
+
+#~ msgid "Scroll"
+#~ msgstr "Desplazable"
+
+#~ msgid "Top left"
+#~ msgstr "Superior izquierda"
+
+#~ msgid "Top center"
+#~ msgstr "Superior centrado"
+
+#~ msgid "Centered left"
+#~ msgstr "Centrado izquierda"
+
+#~ msgid "Centered right"
+#~ msgstr "Centrado derecha"
+
+#~ msgid "Bottom left"
+#~ msgstr "Abajo izquierda"
+
+#~ msgid "Bottom centered"
+#~ msgstr "Inferior centrado"
+
+#~ msgid "Bottom right"
+#~ msgstr "Inferior derecha"
+
+#~ msgid "Both"
+#~ msgstr "Ambos"
+
+#~ msgid "Horizontally"
+#~ msgstr "Horizontalmente"
+
+#~ msgid "Vertically"
+#~ msgstr "Verticalmente"
+
+#~ msgid "No repeat"
+#~ msgstr "Sin repetición"
+
+#~ msgid "Auxiliary Navigation"
+#~ msgstr "Navegación Auxiliar"
+
+#~ msgid ""
+#~ "Specifies a navigation menu to be used in this page. This menu will "
+#~ "appear under the title of the page."
+#~ msgstr ""
+#~ "Incluye un menú de navegación en esta página. El menú aparecerá bajo el "
+#~ "título de la página."
+
+#~ msgid "Revolution Slider"
+#~ msgstr "Revolution Slider"
+
+#~ msgid "Specifies a Revolution Slider to appear on this page."
+#~ msgstr "Muestra un revolution slider en la página."
+
+#~ msgid ""
+#~ "Sets an icon to be used as the featured image. If an icon is specified, "
+#~ "it will replace the normal thumbnail."
+#~ msgstr ""
+#~ "Indica un icono para que sea utilizado como imagen destacada. Si se "
+#~ "especifica uno, reemplazará a dicha imagen."
+
+#~ msgid "Specifies where the caption should be located within the slide."
+#~ msgstr ""
+#~ "Especifica d&oacute;nde se ubica la descripci&oacute;n en la diapositiva."
+
+#~ msgid "Tagline Position"
+#~ msgstr "Posición del Lema"
+
+#~ msgid "Specifies where the tagline will appear in the homepage."
+#~ msgstr "Determina d&oacute;nde aparecer&aacute; el lema."
+
+#~ msgid "Specifies how this portfolio item should be displayed."
+#~ msgstr "Determina cómo se ha de mostrar este elemento del portafolio."
+
+#~ msgid ""
+#~ "Here you can insert the name of your client, or the author if this item."
+#~ msgstr ""
+#~ "Aquí puedes insertar el nombre de tu cliente, o el author de este "
+#~ "elemento."
+
+#~ msgid "Link your project to existing material."
+#~ msgstr "Enlaza este elemento a material existente."
+
+#~ msgid "Other Details"
+#~ msgstr "Otros Detalles"
+
+#~ msgid "Add further details for this item, such as tools or skills used."
+#~ msgstr ""
+#~ "Agrega otros detalles para este elemento, como por ejemplo herramientas o "
+#~ "conocimientos empleados."
+
+#~ msgid "Video URL"
+#~ msgstr "URL del Vídeo"
+
+#~ msgid ""
+#~ "Specifies a video URL for this portfolio item. Make sure the URL is in a "
+#~ "format such as 'http://www.youtube.com/embed/abc12345' or 'http://player."
+#~ "vimeo.com/video/abc12345'. If a video is added, it will replace the image "
+#~ "slideshow."
+#~ msgstr ""
+#~ "Especifica una URL de un vídeo para este elemento. Asegúrate de que la "
+#~ "URL tiene un formato como 'http://www.youtube.com/embed/abc12345' o "
+#~ "'http://player.vimeo.com/video/abc12345'. Si se especifica un vídeo, "
+#~ "reemplazará las imágenes."
+
+#~ msgid "Email Address"
+#~ msgstr "Correo Electrónico"
+
+#~ msgid "Phone Number"
+#~ msgstr "Número de Teléfono"
+
+#~ msgid "Specifies the phone number of this member."
+#~ msgstr "Especifica el número de teléfono de este miembro del equipo."
+
+#~ msgid "Company/Location"
+#~ msgstr "Empresa/Localizaci&oacute;n"
+
+#~ msgid "Specify the location or the company this testimonial belongs to."
+#~ msgstr ""
+#~ "Determina la localizaci&oacute;n o la empresa a la que este testimonio "
+#~ "pertenece."
+
+#~ msgid "General Options"
+#~ msgstr "Opciones Generales"
+
+#~ msgid "Determines whether the site has a fluid or boxed layout."
+#~ msgstr "Determina si el sitio tiene un diseño fluido o de caja."
+
+#~ msgid "Header Style"
+#~ msgstr "Estilo de la Cabecera"
+
+#~ msgid "Determines the structure of the site header."
+#~ msgstr "Determina la estructura de la cabecera del sitio."
+
+#~ msgid "Mini Features Style"
+#~ msgstr "Estilo de Mini Características"
+
+#~ msgid "Mini Features Columns"
+#~ msgstr "Columnas de Mini Características"
+
+#~ msgid ""
+#~ "Determines the number of columns for the mini features in the homepage."
+#~ msgstr ""
+#~ "Determina el número de columnas de las mini características en la página "
+#~ "de inicio."
+
+#~ msgid "Specifies the slideshow displayed on the homepage."
+#~ msgstr "Especifica el pase de diapositivas mostrado en la página de inicio."
+
+#~ msgid "Always Display Slider?"
+#~ msgstr "¿Mostrar Diapositivas Siempre?"
+
+#~ msgid "Enable Related Portfolio Items?"
+#~ msgstr "Activar Elementos Relacionados"
+
+#~ msgid "General Styling"
+#~ msgstr "Estilizado General"
+
+#~ msgid "Custom Footer Notice"
+#~ msgstr "Anuncio de Pié Personalizado"
+
+#~ msgid ""
+#~ "Allows you to insert a custom notice located right above the footer. You "
+#~ "can use HTML in here, as well as shortcodes."
+#~ msgstr ""
+#~ "Te permite insertar texto personalizado que reemplaza la línea de "
+#~ "copyright por defecto en el pié. Aquí puedes utilizar tanto HTML como "
+#~ "shortcodes."
+
+#~ msgid "Home Portfolio Description"
+#~ msgstr "Descripción del Portafolio de la Página de Inicio"
+
+#~ msgid ""
+#~ "Allows you to insert custom text in the portfolio description that "
+#~ "appears on the homepage. You can use HTML in here, as well as shortcodes."
+#~ msgstr ""
+#~ "Te permite insertar texto personalizado que reemplaza la descripción del "
+#~ "portafolio en la página de inicio. Aquí puedes utilizar tanto HTML como "
+#~ "shortcodes."
+
+#~ msgid "Background Texture"
+#~ msgstr "Textura de Fondo"
+
+#~ msgid "Specifies a texture to be used in the background of the site."
+#~ msgstr ""
+#~ "Especifica una textura para que sea utilizada en el fondo del sitio."
+
+#~ msgid "Blog Page"
+#~ msgstr "Página del Blog"
+
+#~ msgid ""
+#~ "Specify the location of the blog within your site. Used to configure "
+#~ "breadcrumbs, shortcuts and other links."
+#~ msgstr ""
+#~ "Indica la dirección del blog en tu sitio. Se utiliza para configurar "
+#~ "migas de pan, atajos y otros enlaces fijos."
+
+#~ msgid "Portfolio Page"
+#~ msgstr "Página del Portafolio"
+
+#~ msgid ""
+#~ "Specify the location of the portfolio page within your site. Used to "
+#~ "configure breadcrumbs, shortcuts and other links."
+#~ msgstr ""
+#~ "Indica la dirección del portafolio en tu sitio. Se utiliza para "
+#~ "configurar migas de pan, atajos y otros enlaces."
+
+#~ msgid "Configure the typography and colors used in the content."
+#~ msgstr ""
+#~ "Configura las opciones de tipografías y colores utilizadas en el "
+#~ "contenido."
+
+#~ msgid "Headings"
+#~ msgstr "Cabeceras"
+
+#~ msgid "Navigation"
+#~ msgstr "Navegación"
+
+#~ msgid "Body"
+#~ msgstr "Cuerpo"
+
+#~ msgid "Social & Contact"
+#~ msgstr "Social y Contacto"
+
+#~ msgid "Setup for social media and contact information used in forms."
+#~ msgstr ""
+#~ "Configuración de las opciones de social media y formularios de contacto."
+
+#~ msgid "Contact Information"
+#~ msgstr "Informaci&oacute;n de Contacto"
+
+#~ msgid "Contact Form Email"
+#~ msgstr "Email del Formulario de Contacto"
+
+#~ msgid ""
+#~ "Entries in the contact form template will be sent to this email address."
+#~ msgstr ""
+#~ "Las respuestas enviadas a través de la plantilla del formulario de "
+#~ "contacto serán enviadas a esta dirección."
+
+#~ msgid "Contact Map Latitude"
+#~ msgstr "Latitud del Mapa de Contacto"
+
+#~ msgid ""
+#~ "Insert the latitude value for the map in the contact form template. You "
+#~ "can use a service such as %s to calculate the coordinates from an "
+#~ "existing address."
+#~ msgstr ""
+#~ "Introduce el valor de la latitud para el mapa en la plantilla de "
+#~ "contacto. Puedes utilizar un servicio como %s para calcular las "
+#~ "coordenadas a partir de una dirección."
+
+#~ msgid "Contact Map Longitude"
+#~ msgstr "Longitud del Mapa de Contacto"
+
+#~ msgid "Insert the longitude value for the map in the contact form template."
+#~ msgstr ""
+#~ "Introduce el valor de la latitud para el mapa en la plantilla de contacto."
+
+#~ msgid "Add Category"
+#~ msgstr "Agregar Categoría"
+
+#~ msgid "Edit Category"
+#~ msgstr "Editar Categoría"
+
+#~ msgid "New Category"
+#~ msgstr "Nueva Categoría"
+
+#~ msgid "View Category"
+#~ msgstr "Ver Categoría"
+
+#~ msgid "Search Categories"
+#~ msgstr "Buscar Categorías"
+
+#~ msgid "No categories were found."
+#~ msgstr "No se han encontrado categorías."
+
+#~ msgid "No categories were found in the trash."
+#~ msgstr "No se han encontrado categorías en la papelera."
+
+#~ msgid "Displays a slideshow of testimonials added in the Testimonials page."
+#~ msgstr ""
+#~ "Muestra un pase de los testimonios creados en la sección de Testimonios."
+
+#~ msgid "CPO - Testimonials"
+#~ msgstr "CPO - Testimonios"
+
+#~ msgid "Number of Testimonials"
+#~ msgstr "Número de Testimonios"
+
+#~ msgid "Back"
+#~ msgstr "Atrás"
+
+#~ msgid "A minute ago"
+#~ msgstr "Un minuto atrás"
+
+#~ msgid "minutes ago"
+#~ msgstr "minutos atrás"
+
+#~ msgid "An hour ago"
+#~ msgstr "Una hora atrás"
+
+#~ msgid "hours ago"
+#~ msgstr "horas atrás"
+
+#~ msgid "A day ago"
+#~ msgstr "Un día atrás"
+
+#~ msgid "days ago"
+#~ msgstr "días atrás"
+
+#~ msgid "Footer Sidebar 4"
+#~ msgstr "Barra Inferior 4"
+
+#~ msgid "Fluid"
+#~ msgstr "Fluido"
+
+#~ msgid "Feature Type"
+#~ msgstr "Tipo de Elemento"
+
+#~ msgid ""
+#~ "Specifies where this feature should appear. Mini features are small "
+#~ "blurbs placed in columns, while normal features are page wide and located "
+#~ "right after the former."
+#~ msgstr "Determina dónde debe aparecer esta característica. "
+
+#~ msgid ""
+#~ "Specifies where the caption should be placed. This option only works for "
+#~ "Normal features."
+#~ msgstr ""
+#~ "Determina la orientación del elemento. Esta opción sólo funciona con "
+#~ "elementos Normales."
+
+#~ msgid ""
+#~ "Specifies the background color of the feature. This option only works for "
+#~ "Normal features."
+#~ msgstr ""
+#~ "Determina el color de fondo del elemento. Esta opción sólo funciona con "
+#~ "elementos Normales."
+
+#~ msgid "Determines the color of the background."
+#~ msgstr "Determines the color of the background."
+
+#~ msgid "Background Image"
+#~ msgstr "Imagen de Fondo"
+
+#~ msgid "Insert the URL of an image to be used as a custom background."
+#~ msgstr ""
+#~ "Inserta la URL de una imagen para que sea utilizada como fondo "
+#~ "personalizado."
+
+#~ msgid "Background Position"
+#~ msgstr "Posición del Fondo"
+
+#~ msgid "Specifies how the background image is anchored to the screen."
+#~ msgstr ""
+#~ "Determina la forma en que la imagen de fondo se ancla a la pantalla."
+
+#~ msgid "Background Repeat"
+#~ msgstr "Repetición de la Imagen de Fondo"
+
+#~ msgid "Specifies the pattern in which the background image repeats."
+#~ msgstr "Especifica la forma en que la imagen se repite."
+
+#~ msgid "Background Attachment"
+#~ msgstr "Anclaje de la Imagen de Fondo"
+
+#~ msgid ""
+#~ "Specifies whether the background image scrolls with the content, or is "
+#~ "fixed."
+#~ msgstr "Determina si la imagen de fondo se desplaza con el contenido o no."
+
+#~ msgid "Background Color in Pages"
+#~ msgstr "Color de Fondo en Páginas"
+
+#~ msgid ""
+#~ "Determines the background color of the title banner in posts and pages."
+#~ msgstr "Determina el color de fondo del título de las entradas y páginas."
+
+#~ msgid "Background Image in Pages"
+#~ msgstr "Imagen de Fondo en Páginas"
+
+#~ msgid "Display Post Thumbnails?"
+#~ msgstr "Mostrar Miniaturas?"
+
+#~ msgid "Determines whether featured images in posts are shown at full size."
+#~ msgstr ""
+#~ "Determina si las imágenes destacadas en entradas y páginas se muestran de "
+#~ "forma panorámica."
+
+#~ msgid "No sliders found, Please create a slider"
+#~ msgstr "No se han encontrado pases de diapositivas. Por favor, crea uno"
+
+#~ msgid "This post has no comments. Be the first to leave one!"
+#~ msgstr "Esta entrada no tiene comentarios. ¡Sé el primero en dejar uno!"
+
+#~ msgid "No results have been found."
+#~ msgstr "La busqueda no ha producido resultados."
+
+#~ msgid "Pages:"
+#~ msgstr "P&aacute;ginas:"
+
+#~ msgid "Taglines"
+#~ msgstr "Lemas"
+
+#~ msgid "Add New Tagline"
+#~ msgstr "Agregar Nuevo Lema"
+
+#~ msgid "Edit Tagline"
+#~ msgstr "Editar Lema"
+
+#~ msgid "New Tagline"
+#~ msgstr "Nuevo Lema"
+
+#~ msgid "View Taglines"
+#~ msgstr "Ver Lemas"
+
+#~ msgid "Search Taglines"
+#~ msgstr "Buscar Lemas"
+
+#~ msgid "Caption Style"
+#~ msgstr "Estilo de Caja"
+
+#~ msgid "Here you can insert custom CSS styling for the entire site."
+#~ msgstr "Aquí puedes insertar CSS personalizado para todo el sitio."
+
+#~ msgid ""
+#~ "Displays a small description in the portfolio section of the homepage. "
+#~ "You can use HTML to stylize the description."
+#~ msgstr ""
+#~ "Muestra una descripción en la sección del portafolio en la página de "
+#~ "inicio. Puedes utilizar HTML para estilizar la descripción."
+
+#~ msgid "Specifies how the sidebar is arranged throughout the whole site."
+#~ msgstr "Especifica cómo se muestra la barra lateral en todo el sitio."
+
+#~ msgid "Tag"
+#~ msgstr "Etiqueta"
+
+#~ msgid "Username"
+#~ msgstr "Nombre de Usuario"
+
+#~ msgid "Home Menu"
+#~ msgstr "Menu de Inicio"
+
+#~ msgid "Subscribe to this RSS Feed"
+#~ msgstr "Suscríbete a este Feed RSS"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Sidebar shown only in the homepage."
+#~ msgstr "Barra lateral mostrada en la p&aacute;gina de inicio."
+
+#~ msgid "Specify the number of recent posts you want to appear in the footer."
+#~ msgstr ""
+#~ "Especifica el número de entradas recientes que quieres que aparezcan en "
+#~ "el pié."
+
+#~ msgid ""
+#~ "Displays a tagline located under the slider in the homepage. You can use "
+#~ "HTML to stylize your tagline."
+#~ msgstr ""
+#~ "Muestra una frase corta o lema debajo del pase de diapositivas en la "
+#~ "página de inicio. Puedes utilizar HTML para estilizar tu frase,"
+
+#~ msgid ""
+#~ "Determines whether the slider will be shown in all posts and pages, or "
+#~ "just the homepage."
+#~ msgstr ""
+#~ "Determina si el pase de diapositivas se mostrará en todas las páginas, o "
+#~ "únicamente la página de Inicio."
+
+#, fuzzy
+#~ msgid ""
+#~ "Displays a secondary tagline located at the footer. You can use HTML to "
+#~ "stylize your tagline."
+#~ msgstr ""
+#~ "Muestra una frase corta o lema debajo del pase de diapositivas en la "
+#~ "página de inicio. Puedes utilizar HTML para estilizar tu frase,"
+
+#~ msgid "Posted on %1$s"
+#~ msgstr "Escrito en %1$s "
+
+#~ msgid " by %1$s"
+#~ msgstr " por %1$s"
+
+#~ msgid " in %1$s"
+#~ msgstr " en %1$s"
+
+#~ msgid "By %1$s"
+#~ msgstr "Por %1$s"
+
+#~ msgid "Tagged as %1$s"
+#~ msgstr "Etiquetado como %1$s"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Ver todas las entradas escritas por %s"
+
+#~ msgid "Some Of Our Work"
+#~ msgstr "Algunos De Nuestros Trabajos"
+
+#~ msgid "Take a look at our portfolio."
+#~ msgstr "Echa un vistazo a nuestro portafolio."
+
+#~ msgid "Global Options"
+#~ msgstr "Opciones Globales"
+
+#~ msgid "Activate SEO in Posts &amp; Pages"
+#~ msgstr "Activar SEO en Entradas & P&aacute;ginas"
+
+#~ msgid ""
+#~ "Toggles SEO settings in individual posts and pages, allowing you to "
+#~ "create specific descriptions &amp; keywords in each one of them."
+#~ msgstr ""
+#~ "Activa las opciones SEO en entradas y páginas individuales, pudiendo "
+#~ "crear descripciones y palabras clave espec&iacute;ficas en cada una."
+
+#~ msgid "SEO settings that affect the homepage."
+#~ msgstr "Opciones SEO que afectan a la página de Inicio"
+
+#~ msgid "Subscribe"
+#~ msgstr "Suscr&iacute;bete"
+
+#~ msgid "A new version of CPO Core is available. Go to the update page."
+#~ msgstr ""
+#~ "Hay una nueva versión del CPO Core disponible. Por favor, ve a la página "
+#~ "de actualización."
+
+#~ msgid "Your message has been sent to"
+#~ msgstr "Tu mensaje se ha enviado a"

@@ -1,0 +1,39 @@
+
+/* Main Overlay */
+.pp_pic_holder a:focus { outline:none; }
+.pp_overlay { background:#000; display:none; left:0; position:absolute; top:0; width:100%; z-index:15500; }
+.pp_pic_holder { display:none; position:absolute; width:100px; z-index:20000; }
+.pp_content_container { position:relative;text-align:left;width:100% }
+.pp_content_container .pp_details { float:left;margin:10px 0 0; }
+
+/* Container */
+.pp_fade, .pp_gallery li.default a img { display:none }
+#pp_full_res{ line-height:1; }
+.ppt { color:#fff; display:none; font-size:17px; z-index:9999; margin:0 0 5px 15px; }
+.pp_details { position:relative }
+
+
+.pp_nav { clear:right; float:left; margin:0 10px 0 0; }
+/* Left/Right Arrows */
+.pp_arrow_previous,
+.pp_arrow_next { display:block; float:left; overflow:hidden; position:relative; color:transparent !important; height:24px; width:24px; border-radius:50%; border:1px solid rgba(255,255,255,0.5); margin:5px 0 0; }
+.pp_arrow_next { margin-left:10px; }
+.pp_arrow_previous:before,
+.pp_arrow_next:before { position:absolute; width:20px; height:20px; font-size:12px; line-height:19px; margin:-10px 0 0 -10px; top:50%; left:50%; text-align:center; color:#fff; font-family:'fontawesome'; content:'\f104'; }
+.pp_arrow_next:before { margin:-10px 0 0 -9px; content:'\f105'; }
+/* Text holder */
+.pp_nav p { float:left; white-space:nowrap; margin:0; }
+.pp_nav .currentTextHolder { color:#bbb; font-size:12px; left:80px; line-height:32px; letter-spacing:2px; position:absolute; top:2px; margin:0; padding:0; }
+/* Close Button */
+.pp_close { float:right; position:relative; color:transparent !important; height:24px; width:24px; border-radius:50%; border:1px solid rgba(255,255,255,0.5); margin:5px 0 0;  }
+.pp_close:before { position:absolute; width:20px; height:20px; font-size:12px; line-height:19px; margin:-10px 0 0 -10px; top:50%; left:50%; text-align:center; color:#fff; font-family:'fontawesome'; content:'\f00d'; }
+/* Hover Effect*/
+.pp_close:hover,
+.pp_arrow_next:hover,
+.pp_arrow_previous:hover{ opacity:0.7 }
+.pp_description{ font-size:11px; line-height:14px; margin:5px 50px 5px 0; }
+/* Load icon */
+
+/* Hide unneeded elements */
+.pp_loaderIcon, .pp_description, .pp_social, .pp_previous, .pp_next, .pp_play, .pp_pause, .pp_expand, .pp_contract, .pp_gallery, .pp_top, .pp_bottom { display:none !important; }
+.pp_hoverContainer { position:absolute; }

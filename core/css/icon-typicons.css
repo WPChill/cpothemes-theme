@@ -1,0 +1,11 @@
+@charset 'UTF-8';
+ 
+/* @FONT-FACE loads font into browser */
+@font-face {
+  font-family: 'typicons'; font-weight: normal; font-style: normal; 
+  src: url('../fonts/typicons-webfont.eot'); 
+  src: url('../fonts/typicons-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/typicons-webfont.woff') format('woff'),
+       url('../fonts/typicons-webfont.ttf') format('truetype'),
+       url('../fonts/typicons-webfont.svg#typicons') format('svg');
+}
