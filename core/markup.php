@@ -234,7 +234,7 @@ if ( ! function_exists( 'cpotheme_logo' ) ) {
 		if ( ! is_front_page() ) {
 			$output .= '<span class="title site-title' . esc_attr( $classes ) . '"><a href="' . home_url() . '">' . get_bloginfo( 'name' ) . '</a></span>';
 		} else {
-			$output .= '<h1 class="title site-title ' . esc_attr( $classes ) . '"><a href="' . home_url() . '">' . get_bloginfo( 'name' ) . '</a></h1>';
+			$output .= '<span class="title site-title ' . esc_attr( $classes ) . '"><a href="' . home_url() . '">' . get_bloginfo( 'name' ) . '</a></span>';
 		}
 
 		$output .= '</div>';
