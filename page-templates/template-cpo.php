@@ -53,7 +53,7 @@
             </div>
         </section>
 
-        <section id="homepage-testimonials" class="white-section homepage-section content">
+        <section class="white-section homepage-section content" id="homepage-testimonials">
             <div class="pagetitle">
                 <h2 class="pagetitle-title heading">What People Say About Us</h2>
                 <div class="pagetitle-subtitle">
@@ -100,7 +100,7 @@
             </div>
         </section>
 
-        <section id="homepage-testimonials" class="homepage-section content">
+        <section id="homepage-features" class="white-section homepage-section content">
             <div class="pagetitle">
                 <h2 class="pagetitle-title heading">Premium-Grade Features</h2>
                 <div class="pagetitle-subtitle">
