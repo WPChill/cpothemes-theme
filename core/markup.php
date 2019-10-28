@@ -803,7 +803,7 @@ if ( ! function_exists( 'cpotheme_postpage_date' ) ) {
 			if ( $format_text != '' ) {
 				$date_string = sprintf( $format_text, $date_string );
 			}
-			echo '<div class="post-date">' . get_the_modified_date( $date_format ) . '</div>';
+			echo '<div class="post-date">' . esc_html__( 'Updated on: ', 'cpotheme' ) . get_the_modified_date( $date_format ) . '</div>';
 
 		}
 	}
