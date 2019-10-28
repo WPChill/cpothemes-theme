@@ -769,6 +769,7 @@ if (!function_exists('cpotheme_postpage_date')) {
             }
             if ($format_text != '') $date_string = sprintf($format_text, $date_string);
             echo '<div class="post-date">' . get_the_modified_date() . '</div>';
+            
         }
     }
 }
