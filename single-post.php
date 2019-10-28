@@ -11,9 +11,6 @@
 			<?php comments_template('', true); ?>
 			<?php endwhile; ?>
 			<?php do_action('cpotheme_after_content'); ?>
-			<script>
-				ga('set', 'contentGroup1', 'Blog Posts'); 
-			</script>
 		</section>
 		<div class="clear"></div>
 	</div>
