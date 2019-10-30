@@ -2,14 +2,13 @@
 <?php get_header(); ?>
 
     <div class="homepage-header">
-		<?php if (has_post_thumbnail()) { ?>
+		<?php if ( has_post_thumbnail() ) { ?>
             <div class="homepage-header-background"
-                 style="background-image:url( <?php the_post_thumbnail_url('full'); ?> )"></div>
+                 style="background-image:url( <?php the_post_thumbnail_url( 'full' ); ?> )"></div>
 		<?php } ?>
         <div class="container">
-            <h1>Original &amp; Powerful WordPress Themes</h1>
-            <p>We specialize in creating some of the Best Free and Premium WordPress Themes. Subscribe and get access to
-                our entire collection.</p>
+            <h1>Find your next business WordPress theme here</h1>
+            <p>We specialize in creating some of the Best Business WordPress Themes on the market. Subscribe and get access to our entire collection.</p>
             <a href="/pricing" class="green-button">See Pricing And Plans</a>
         </div>
     </div>
@@ -27,22 +26,22 @@
                 </div>
             </section>
             <div class="container">
-				<?php $feature_posts = new WP_Query('post_type=cpo_theme&posts_per_page=6'); ?>
-				<?php if ($feature_posts->post_count > 0): $feature_count = 0; ?>
+				<?php $feature_posts = new WP_Query( 'post_type=cpo_theme&posts_per_page=6' ); ?>
+				<?php if ( $feature_posts->post_count > 0 ): $feature_count = 0; ?>
                     <div id="themes" class="themes cpo-row">
-						<?php while ($feature_posts->have_posts()): $feature_posts->the_post(); ?>
-							<?php if ($feature_count % 3 == 0 && $feature_count != 0) {
-    echo '<div class="col-divide"></div>';
-}
-                            $feature_count ++; ?>
-                            <div class="column col3<?php if ($feature_count % 3 == 0) {
-                                echo ' col-last';
-                            } ?>">
-								<?php get_template_part('element', 'theme'); ?>
+						<?php while ( $feature_posts->have_posts() ): $feature_posts->the_post(); ?>
+							<?php if ( $feature_count % 3 == 0 && $feature_count != 0 ) {
+								echo '<div class="col-divide"></div>';
+							}
+							$feature_count ++; ?>
+                            <div class="column col3<?php if ( $feature_count % 3 == 0 ) {
+								echo ' col-last';
+							} ?>">
+								<?php get_template_part( 'element', 'theme' ); ?>
                             </div>
-							<?php if ($feature_count % 9 == 0 && $feature_count != 0 && $feature_count < $feature_posts->post_count) {
-                                get_template_part('element', 'ad');
-                            } ?>
+							<?php if ( $feature_count % 9 == 0 && $feature_count != 0 && $feature_count < $feature_posts->post_count ) {
+								get_template_part( 'element', 'ad' );
+							} ?>
 						<?php endwhile; ?>
                         <div class='clear'></div>
                     </div>
@@ -71,7 +70,7 @@
                                 create super-high quality sites faster than ever.
                             </div>
                             <div class="cpo-testimonial-author">
-                                <img src="<?php echo wp_get_attachment_url('48054') ?>" class="cpo-testimonial-image">
+                                <img src="<?php echo wp_get_attachment_url( '48054' ) ?>" class="cpo-testimonial-image">
                                 <div class="cpo-testimonial-author-meta">
                                     <div class="cpo-testimonial-author-name">Wesley Jordan</div>
                                     <div class="cpo-testimonial-author-position">Wealthbridge Marketing</div>
@@ -88,7 +87,7 @@
                                 I’m very happy that I gave them a go.
                             </div>
                             <div class="cpo-testimonial-author">
-                                <img src="<?php echo wp_get_attachment_url('48052') ?>" class="cpo-testimonial-image">
+                                <img src="<?php echo wp_get_attachment_url( '48052' ) ?>" class="cpo-testimonial-image">
                                 <div class="cpo-testimonial-author-meta">
                                     <div class="cpo-testimonial-author-name">David Tiong</div>
                                     <div class="cpo-testimonial-author-position">David Tiong Web Consultancy</div>
