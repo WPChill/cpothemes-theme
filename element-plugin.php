@@ -4,7 +4,7 @@
 		<a href="<?php the_permalink(); ?>" >
 			<?php the_post_thumbnail('medium', array('title' => '')); ?>
 		</a>
-		<?php if($external_url != ''): ?>
+		<?php if ($external_url != ''): ?>
 		<div class="free-theme-tag"></div>
 		<?php endif; ?>
 	</div>

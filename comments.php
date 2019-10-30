@@ -1,8 +1,10 @@
-<?php if(!(is_page() && !comments_open())): ?>
+<?php if (!(is_page() && !comments_open())): ?>
 <div id="comments" class="comments">
-	<?php if(cpotheme_comments_protected()) return; ?>
+	<?php if (cpotheme_comments_protected()) {
+    return;
+} ?>
 	
-	<?php if(have_comments()): ?>
+	<?php if (have_comments()): ?>
 	<?php cpotheme_comments_title(); ?>
 	<ol class="comments-list">
 		<?php wp_list_comments('type=comment&callback=cpotheme_comment'); ?>

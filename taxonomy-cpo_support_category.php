@@ -14,7 +14,7 @@
 			
 			<a class="button-back button button-small" href="<?php echo cpotheme_get_option('url_docs'); ?>"><span class="icon-angle-double-left"></span> <?php _e('Go Back'); ?></a>
 			
-			<?php if(have_posts()): while(have_posts()): the_post(); ?>
+			<?php if (have_posts()): while (have_posts()): the_post(); ?>
 			<article <?php post_class(); ?> id="post-<?php the_ID(); ?>"> 
 				<div class="support-icon"></div>
 				<div class="support-body">
@@ -22,7 +22,9 @@
 						<a href="<?php the_permalink(); ?>" title="<?php printf(esc_attr__('Go to %s', 'cpotheme'), the_title_attribute('echo=0')); ?>" rel="bookmark"><?php the_title(); ?></a> <?php cpotheme_edit(); ?>
 					</div>
 					<div class="support-content">
-						<?php if(has_excerpt()) the_excerpt(); ?>
+						<?php if (has_excerpt()) {
+    the_excerpt();
+} ?>
 					</div>
 				</div>
 				<div class="clear"></div>

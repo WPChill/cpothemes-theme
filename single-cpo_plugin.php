@@ -27,7 +27,7 @@
 					<?php if(is_user_logged_in()): //FREE PLUGIN ?>
 					<a class="button button-large" id="button-external" target="_blank" href="<?php echo esc_url($external_url); ?>"><?php _e('Free Download', 'cpotheme'); ?></a>
 					<?php else: //LOGIN REQUIRED ?>
-					<a class="button button-large" id="button-gologin" href="http://www.cpothemes.com/dashboard"><?php _e('Log In To Download', 'cpotheme'); ?></a>
+					<a class="button button-large" id="button-gologin" href="https://cpothemes.com/dashboard"><?php _e('Log In To Download', 'cpotheme'); ?></a>
 					<?php endif; ?>
 					<?php endif; ?>
 				</div>

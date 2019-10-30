@@ -188,7 +188,7 @@ wp_enqueue_script('cpotheme-magnific'); ?>
 				</div>
 				<div class="purchase-button">
 					<?php if($external_url != '' && is_user_logged_in()): ?>
-					<a class="button button-medium button-try" id="button-download-footer" href="http://www.cpothemes.com/download-file.php?file=<?php echo $external_url; ?>&key=<?php echo md5(date('Ymd')); ?>"><?php _e('Download For Free', 'cpotheme'); ?></a>
+					<a class="button button-medium button-try" id="button-download-footer" href="https://cpothemes.com/download-file.php?file=<?php echo $external_url; ?>&key=<?php echo md5(date('Ymd')); ?>"><?php _e('Download For Free', 'cpotheme'); ?></a>
 					<?php else: ?>
 					<a class="button button-medium button-try" id="button-gologin-footer" href="<?php echo cpotheme_get_option('url_login'); ?>"><?php _e('Log In To Download', 'cpotheme'); ?></a>
 					<?php endif; ?>

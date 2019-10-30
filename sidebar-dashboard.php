@@ -1,5 +1,5 @@
 <?php $sidebar_config = cpotheme_get_sidebar_position(); ?>
-<?php if($sidebar_config != 'none'): ?>
+<?php if ($sidebar_config != 'none'): ?>
 
 <aside id="sidebar" class="sidebar sidebar-primary">
 	<?php get_template_part('element', 'user'); ?> 
@@ -16,7 +16,7 @@
 		</a>
 		
 		<?php $page_list = get_pages('sort_column=menu_order&sort_order=ASC&child_of='.$post_ancestor); ?>
-		<?php foreach($page_list as $current_page): ?>
+		<?php foreach ($page_list as $current_page): ?>
 		<a class="menu-item" href="<?php echo get_permalink($current_page->ID); ?>">
 			<div class="menu-image">
 				<?php echo get_the_post_thumbnail($current_page->ID); ?>
@@ -29,7 +29,7 @@
 	<?php dynamic_sidebar('primary-widgets'); ?>
 </aside>
 
-<?php if(in_array($sidebar_config, array('double', 'double-left', 'double-right'))): ?>
+<?php if (in_array($sidebar_config, array('double', 'double-left', 'double-right'))): ?>
 <aside id="sidebar-secondary" class="sidebar sidebar-secondary">
 	<?php dynamic_sidebar('secondary-widgets'); ?>
 </aside>

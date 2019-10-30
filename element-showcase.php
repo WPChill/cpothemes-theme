@@ -12,7 +12,7 @@
 		<h3 class="showcase-title"><?php the_title(); ?></h3>
 		<div class="showcase-meta">
 			<?php $theme = get_post_meta(get_the_ID(), 'showcase_theme', true); ?>
-			<?php if($theme): ?>
+			<?php if ($theme): ?>
 			<a href="<?php echo get_permalink($theme); ?>">
 				<?php printf(__('Created with %s', 'cpotheme'), cpotheme_metadata_themelist_optional($theme)); ?>
 			</a>

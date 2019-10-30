@@ -1,4 +1,4 @@
-<?php wp_enqueue_style( 'cpotheme-fontawesome' ); ?>
+<?php wp_enqueue_style('cpotheme-fontawesome'); ?>
 <article <?php post_class(); ?> id="post-<?php the_ID(); ?>">
     <div class="post-image">
 		<?php cpotheme_postpage_image(); ?>
@@ -9,12 +9,12 @@
 			<?php cpotheme_postpage_date(); ?>
 			<?php cpotheme_postpage_author(); ?>
 			<?php cpotheme_postpage_categories(); ?>
-			<?php if ( is_singular( 'post' ) ) {
-				cpotheme_postpage_comments();
-			} ?>
+			<?php if (is_singular('post')) {
+    cpotheme_postpage_comments();
+} ?>
         </div>
 
-		<?php if ( is_singular( 'post' ) ): ?>
+		<?php if (is_singular('post')): ?>
             <div class="post-content">
 				<?php cpotheme_postpage_content(); ?>
             </div>

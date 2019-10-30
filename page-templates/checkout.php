@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-    <meta charset="<?php bloginfo( 'charset' ); ?>">
+    <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
 
@@ -48,12 +48,12 @@
         </div>
 	</div><!-- header--checkout -->
 
-	<?php if ( function_exists('edd_get_cart_contents') && edd_get_cart_contents() ) : ?>
+	<?php if (function_exists('edd_get_cart_contents') && edd_get_cart_contents()) : ?>
 
 		<?php
-			$payment_mode = edd_get_chosen_gateway();
-			$form_action  = esc_url( edd_get_checkout_uri( 'payment-mode=' . $payment_mode ) );
-		?>
+            $payment_mode = edd_get_chosen_gateway();
+            $form_action  = esc_url(edd_get_checkout_uri('payment-mode=' . $payment_mode));
+        ?>
 
 		<div class="container">
 
@@ -103,35 +103,35 @@
 				<div class="column checkout-page-second-col">
 
 					<div id="edd_checkout_form_wrap" class="edd_clearfix">
-						<?php do_action( 'edd_before_purchase_form' ); ?>
+						<?php do_action('edd_before_purchase_form'); ?>
 						<form id="edd_purchase_form" class="edd_form" action="<?php echo $form_action; ?>" method="POST">
 							<?php
-							/**
-							 * Hooks in at the top of the checkout form
-							 *
-							 * @since 1.0
-							 */
-							do_action( 'edd_checkout_form_top' );
+                            /**
+                             * Hooks in at the top of the checkout form
+                             *
+                             * @since 1.0
+                             */
+                            do_action('edd_checkout_form_top');
 
-							if ( edd_is_ajax_disabled() && ! empty( $_REQUEST['payment-mode'] ) ) {
-								do_action( 'edd_purchase_form' );
-							} elseif ( edd_show_gateways() ) {
-								do_action( 'edd_payment_mode_select'  );
-							} else {
-								do_action( 'edd_purchase_form' );
-							}
+                            if (edd_is_ajax_disabled() && ! empty($_REQUEST['payment-mode'])) {
+                                do_action('edd_purchase_form');
+                            } elseif (edd_show_gateways()) {
+                                do_action('edd_payment_mode_select');
+                            } else {
+                                do_action('edd_purchase_form');
+                            }
 
-							/**
-							 * Hooks in at the bottom of the checkout form
-							 *
-							 * @since 1.0
-							 */
-							do_action( 'edd_checkout_form_bottom' );
+                            /**
+                             * Hooks in at the bottom of the checkout form
+                             *
+                             * @since 1.0
+                             */
+                            do_action('edd_checkout_form_bottom');
 
 
-							?>
+                            ?>
 						</form>
-						<?php do_action( 'edd_after_purchase_form' ); ?>
+						<?php do_action('edd_after_purchase_form'); ?>
 					</div><!--end #edd_checkout_form_wrap-->
 
 				</div><!-- column -->

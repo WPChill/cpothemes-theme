@@ -357,7 +357,7 @@ endif;
                               <span class="fsc-currency" data-fsc-order-currency=""></span>
                                 <?php
 
-                                $price = edd_get_download_price( $download_id );
+                                $price = edd_get_download_price($download_id);
                                 // echo '<span class="price">' . intval($price) . '</span>';
                                 echo '<span class="price"><sup>$</sup>' . intval($price) . '</span>';
 
@@ -378,7 +378,7 @@ endif;
                         </div>
                         <div class="princing-table-footer">
                             <div class="purchase-button">
-                                <?php if( $download_id != 0 ): ?>
+                                <?php if ($download_id != 0): ?>
                                     <?php
 
                                     echo '<div class="cpotheme-edd-shortcode">' . do_shortcode('[purchase_link id="' . $download_id . '" class="button button-medium button-purchase" text="Buy Now" style="text" price="0" direct="true"]') . '</div>';
@@ -396,7 +396,7 @@ endif;
                                 <span class="fsc-currency" data-fsc-order-currency=""></span>
                                 <?php
 
-                                $price = edd_get_download_price( $extended_id );
+                                $price = edd_get_download_price($extended_id);
                                 // echo '<span class="price">' . intval($price) . '</span>';
                                 echo '<span class="price"><sup>$</sup>' . intval($price) . '</span>';
 
@@ -416,7 +416,7 @@ endif;
                         </div>
                         <div class="princing-table-footer highlight">
                             <div class="purchase-button">
-                                <?php if( $extended_id != 0 ): ?>
+                                <?php if ($extended_id != 0): ?>
                                     <?php
 
                                     echo '<div class="cpotheme-edd-shortcode">' . do_shortcode('[purchase_link id="' . $extended_id . '" class="button button-medium button-purchase" text="Buy Now" style="text" price="0" direct="true"]') . '</div>';
@@ -434,7 +434,7 @@ endif;
                                 <span class="fsc-currency" data-fsc-order-currency=""></span>
                                 <?php
 
-                                $price = edd_get_download_price( $subscribe_id );
+                                $price = edd_get_download_price($subscribe_id);
                                 echo '<span class="price"><sup>$</sup>' . intval($price) . '</span>';
                                 // echo '<span class="price">' . intval($price) . '</span>';
 
@@ -454,7 +454,7 @@ endif;
                         </div>
                         <div class="princing-table-footer">
                             <div class="purchase-button">
-                                <?php if( $subscribe_id != 0 ): ?>
+                                <?php if ($subscribe_id != 0): ?>
                                     <?php
 
                                     echo '<div class="cpotheme-edd-shortcode">' . do_shortcode('[purchase_link id="' . $subscribe_id . '" class="button button-medium button-purchase" text="Buy Now" style="text" price="0" direct="true"]') . '</div>';

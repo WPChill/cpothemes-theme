@@ -1,6 +1,6 @@
 <?php /* Template Name: Features */ ?>
 <?php get_header(); ?>
-<?php //get_template_part('element', 'page-header'); ?>
+<?php //get_template_part('element', 'page-header');?>
 
 <div id="main" class="main">
 	
@@ -31,7 +31,7 @@
 					<p>We have meticulously considered each option we add to our wordPress themes, so they remain agile and powerful at the same time.</p>
 				</div>
 				<div class="column col2">
-					<img src="<?php echo wp_get_attachment_url( '54095' ) ?>">
+					<img src="<?php echo wp_get_attachment_url('54095') ?>">
 				</div>
 			</div>
 		</div>
@@ -41,7 +41,7 @@
 		<div class="container">
 			<div class="row flex-row">
 				<div class="column col2">
-					<img src="<?php echo wp_get_attachment_url( '49732' ) ?>">
+					<img src="<?php echo wp_get_attachment_url('49732') ?>">
 				</div>
 				<div class="column col2">
 					<h2 class="green-heading">Highly Smart Responsive Design</h2>
@@ -70,7 +70,7 @@
 		<div class="container">
 			<div class="row flex-row">
 				<div class="column col2">
-					<img src="<?php echo wp_get_attachment_url( '54173' ) ?>">
+					<img src="<?php echo wp_get_attachment_url('54173') ?>">
 				</div>
 				<div class="column col2">
 					<h2 class="green-heading">Evergreen Updates And Improvements</h2>
@@ -90,7 +90,7 @@
 					<p>Add a custom color palette, select a highly visual typography, and create a unique experience that your readers will enjoy.</p>
 				</div>
 				<div class="column col2">
-					<img src="<?php echo wp_get_attachment_url( '52394' ) ?>">
+					<img src="<?php echo wp_get_attachment_url('52394') ?>">
 				</div>
 			</div>
 		</div>
@@ -282,7 +282,7 @@
 
 	</section>
 
-	<section id="cta-design" class="feature-section black-section" style="background-image:url(<?php echo wp_get_attachment_url( '61157' ) ?>)">
+	<section id="cta-design" class="feature-section black-section" style="background-image:url(<?php echo wp_get_attachment_url('61157') ?>)">
 		<div class="container">
 			<div class="row flex-row">
 				<div class="column col3x2">
@@ -305,15 +305,20 @@
 		</section>
 		<div class="container">
 			<?php $feature_posts = new WP_Query('post_type=cpo_theme&posts_per_page=6'); ?>
-			<?php if($feature_posts->post_count > 0): $feature_count = 0; ?>
+			<?php if ($feature_posts->post_count > 0): $feature_count = 0; ?>
 			<div id="themes" class="themes cpo-row">
-				<?php while($feature_posts->have_posts()): $feature_posts->the_post(); ?>
-				<?php if($feature_count % 3 == 0 && $feature_count != 0) echo '<div class="col-divide"></div>'; $feature_count++; ?>
-				<div class="column col3<?php if($feature_count % 3 == 0) echo ' col-last'; ?>">
+				<?php while ($feature_posts->have_posts()): $feature_posts->the_post(); ?>
+				<?php if ($feature_count % 3 == 0 && $feature_count != 0) {
+    echo '<div class="col-divide"></div>';
+} $feature_count++; ?>
+				<div class="column col3<?php if ($feature_count % 3 == 0) {
+    echo ' col-last';
+} ?>">
 					<?php get_template_part('element', 'theme'); ?>
 				</div>
-				<?php if($feature_count % 9 == 0 && $feature_count != 0 && $feature_count < $feature_posts->post_count) 
-					get_template_part('element', 'ad'); ?>
+				<?php if ($feature_count % 9 == 0 && $feature_count != 0 && $feature_count < $feature_posts->post_count) {
+    get_template_part('element', 'ad');
+} ?>
 				<?php endwhile; ?>
 				<div class='clear'></div>
 			</div>

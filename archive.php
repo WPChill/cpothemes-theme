@@ -9,12 +9,12 @@
 			
 			<ul class="menu-portfolio">
 				<li>
-					<a href="http://www.cpothemes.com/blog">Blog</a>
+					<a href="https://cpothemes.com/blog">Blog</a>
 				</li>
 				<?php wp_list_categories("taxonomy=category&title_li="); ?>
 			</ul>
 			
-			<?php if(have_posts()): ?>
+			<?php if (have_posts()): ?>
 			<?php cpotheme_grid(null, 'element', 'blog', 3, array('class' => 'column-narrow')); ?>
 			<?php cpotheme_numbered_pagination(); ?>
 			<?php endif; ?>

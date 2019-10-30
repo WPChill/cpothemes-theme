@@ -113,16 +113,16 @@ msgstr ""
 "tipo de páginas. Suscríbete y descarga la colección completa."
 
 #: .././homepage-slider.php:8
-msgid "http://www.cpothemes.com/pricing"
-msgstr "http://www.cpothemes.com/es/precios"
+msgid "https://cpothemes.com/pricing"
+msgstr "https://cpothemes.com/es/precios"
 
 #: .././homepage-slider.php:9
 msgid "See Pricing"
 msgstr "Planes y Precios"
 
 #: .././homepage-slider.php:11
-msgid "http://www.cpothemes.com/themes"
-msgstr "http://www.cpothemes.com/es/temas"
+msgid "https://cpothemes.com/themes"
+msgstr "https://cpothemes.com/es/temas"
 
 #: .././homepage-slider.php:12
 msgid "View Themes"
@@ -378,8 +378,8 @@ msgstr "Ver Documentación"
 #~ msgid "Plugin Demo"
 #~ msgstr "Demo Del Plugin"
 
-#~ msgid "http://www.cpothemes.com/features"
-#~ msgstr "http://www.cpothemes.com/es/ventajas"
+#~ msgid "https://cpothemes.com/features"
+#~ msgstr "https://cpothemes.com/es/ventajas"
 
 #~ msgid "See Pricing Details"
 #~ msgstr "Ver Precios"
@@ -612,8 +612,8 @@ msgstr "Ver Documentación"
 #~ msgstr "Volver al Portafolio"
 
 #~ msgid ""
-#~ "Theme designed by <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
-#~ msgstr "Tema creado por <a href=\"http://www.cpothemes.com\">CPOThemes</a>."
+#~ "Theme designed by <a href=\"https://cpothemes.com\">CPOThemes</a>."
+#~ msgstr "Tema creado por <a href=\"https://cpothemes.com\">CPOThemes</a>."
 
 #~ msgid "Pages"
 #~ msgstr "P&aacute;ginas"

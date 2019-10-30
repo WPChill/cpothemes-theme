@@ -1,24 +1,26 @@
 <?php
-if(!function_exists('ctsc_shortcode_princing_table')){
-	function ctsc_shortcode_princing_table($atts, $content = null){
+if (!function_exists('ctsc_shortcode_princing_table')) {
+    function ctsc_shortcode_princing_table($atts, $content = null)
+    {
+        $atts = shortcode_atts(
+            array(
+            'download_id' => '',
+            'extended_id' => '',
+            'subscribe_id' => '',
+        ),
+            $atts,
+            'cpo-pricing-table'
+        );
 
-		$atts = shortcode_atts(
-		array(
-			'download_id' => '',
-			'extended_id' => '',
-			'subscribe_id' => '',
-		), $atts, 'cpo-pricing-table' );
+        $html = '';
 
-		$html = '';
-
-		if ( '' != $atts['extended_id'] && '' != $atts['subscribe_id'] && '' != $atts['download_id'] ) {
-
-                  $price_download = edd_get_download_price( $atts['download_id'] );
-                  $price_extended = edd_get_download_price( $atts['extended_id'] );
-                  $price_subscribe = edd_get_download_price( $atts['subscribe_id'] );
-			
-			$html .= '<div class="purchase">';
-			$html .= '<div class="purchase-wrapper">';
+        if ('' != $atts['extended_id'] && '' != $atts['subscribe_id'] && '' != $atts['download_id']) {
+            $price_download = edd_get_download_price($atts['download_id']);
+            $price_extended = edd_get_download_price($atts['extended_id']);
+            $price_subscribe = edd_get_download_price($atts['subscribe_id']);
+            
+            $html .= '<div class="purchase">';
+            $html .= '<div class="purchase-wrapper">';
             $html .= '<div class="row">';
             $html .= '<div class="column-fit cpo-hide-column col4">';
             $html .= '<div class="pricing-table-head"></div>';
@@ -143,16 +145,14 @@ if(!function_exists('ctsc_shortcode_princing_table')){
             $html .= '</div>';
             $html .= '</div>';
             $html .= '</div>';
-			$html .= '</div>';
+            $html .= '</div>';
             
             $html .= '<div class="clear"></div>';
             $html .= '</div>';
             $html .= '</div>';
+        }
 
-		}
-
-		return $html;
-
-	}
-	add_shortcode('cpo-pricing-table', 'ctsc_shortcode_princing_table');
+        return $html;
+    }
+    add_shortcode('cpo-pricing-table', 'ctsc_shortcode_princing_table');
 }
