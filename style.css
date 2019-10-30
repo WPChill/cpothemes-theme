@@ -268,7 +268,7 @@ body .button-large { padding:20px 60px; }
 
 .cpo_theme .theme-lp-content .cpo-theme-buttons .button{
     font-size:14px;
-    padding:15px 30px;
+
     margin-right:10px;
 }
 
@@ -311,9 +311,7 @@ body .button-large { padding:20px 60px; }
         width:50%;
     }
 
-    .cpo_theme .theme-lp-content .cpo-theme-buttons .button{
-        padding: 15px 20px;
-    }
+
 }
 
 /* Core Features */
@@ -960,7 +958,7 @@ body .button-large { padding:20px 60px; }
 /* Buy/Demo Buttons */
 .cpo_theme .theme-sidebar { overflow:hidden; margin:0 0 40px; }
 .single-cpo_theme .cpo_theme .button { font-size:26px; padding:15px 0; }
-.single-cpo_theme .cpo_theme .button-buy { background:#6b2; font-weight:bold; padding:20px 0; margin:0 0 10px; }
+.single-cpo_theme .cpo_theme .button-buy { background:#6b2; font-weight:bold; margin:0 0 10px; }
 .single-cpo_theme .cpo_theme .button-buy:hover { background:#7c3; }
 .single-cpo_theme .cpo_theme .button-download { border:1px solid #6b2; color:#6b2; background:none; margin:0 0 10px; }
 .single-cpo_theme .wrapper .button-try { background:none; color:#888; border:2px solid #888; }
