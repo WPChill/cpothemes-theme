@@ -7,7 +7,7 @@
                  style="background-image:url( <?php the_post_thumbnail_url( 'full' ); ?> )"></div>
 		<?php } ?>
         <div class="container">
-            <h1>Find your next business WordPress theme here</h1>
+            <h1>Find your next business WordPress theme <u>here</u></h1>
             <p>We specialize in creating some of the Best Business WordPress Themes on the market. Subscribe and get access to our entire collection.</p>
             <a href="/pricing" class="green-button">See Pricing And Plans</a>
         </div>

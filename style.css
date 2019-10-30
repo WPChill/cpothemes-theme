@@ -1299,7 +1299,8 @@ RESPONSIVE
     position: relative;
 }
 .homepage-header h1 {
-    font-size: 40px;
+    font-size: 60px;
+    font-weight: bold;
     color: #fff;
     line-height: 1.2;
 }
@@ -1308,6 +1309,8 @@ RESPONSIVE
     font-size: 20px;
     color: #fff;
     max-width: 66%;
+    margin-left: auto;
+    margin-right: auto;
 }
 a.green-button,
 a.green-button:hover,
