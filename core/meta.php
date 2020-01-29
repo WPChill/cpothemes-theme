@@ -69,7 +69,7 @@ if (!function_exists('cpotheme_meta_save')) {
             return;
         }
         
-        if (!wp_verify_nonce($_POST['cpotheme_nonce'], 'cpotheme_savemeta')) {
+        if ( isset( $_POST[ 'cpotheme_nonce' ] ) && !wp_verify_nonce($_POST['cpotheme_nonce'], 'cpotheme_savemeta')) {
             return;
         }
         
